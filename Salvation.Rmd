@@ -10,32 +10,33 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# UTANGULIZI:
+## UTANGULIZI WA AWALI::
 
 ## Matarajio ya msomaji.
 
-Kabla hujaanza kusoma maudhui yaliyopo katika kitabu hiki,ninapenda kukutaarifu kwamba mtiririko uliofuatwa haujazingatia umuhimu wa mada husika,bali ni namna ambavyo Roho Mtakatifu ameruhusu ujumbe wa elimu yake itufikie sisi sote. Hivyo utakapoona kuna mada ilipaswa kutangulia kutolewa kabla ya nyingine ili kutengeneza msingi wa uelewa basi imekupasa nawe utumike na Roho Mtakatifu ili uweze kufanya kwa kadiri atakavyokuongoza upate kutengeneza misingi imara zaidi ili sote tubarikiwe kwa utumishi wako.
+Kabla hujaanza kusoma maudhui yaliyopo katika makala hii, ninapenda kukutaarifu kwamba mtiririko uliofuatwa haujazingatia umuhimu wa mada husika, bali ni namna ambavyo Roho Mtakatifu ameruhusu ujumbe wa elimu yake itufikie sisi sote. Hivyo utakapoona kuna mada ilipaswa kutangulia kutolewa kabla ya nyingine ili kutengeneza msingi wa uelewa, basi nawe utumike na Roho Mtakatifu ili uweze kufanya kwa kadiri atakavyokuongoza kutengeneza misingi imara zaidi, ili sote tubarikiwe kwa utumishi wako.
 
-Mtu yeyote atakayepewa kibali na Mungu wetu cha kuweza kutoa taarifa iliyo bora zaidi na yenye kulitukuza jina la Mungu wetu na Kumpa utukufu Yesu Kristo na Kuruhusu maongozi ya Roho Mtakatifu atende kazi ndani yake basi anayo ruhusa ya kutumia ujumbe uliopo katika kitabu hiki kwa nia ya kiinjili na sio kibiashara.
+Mtu yeyote atakayepewa kibali na Mungu wetu cha kuweza kutoa taarifa iliyo bora zaidi na yenye kulitukuza jina la Mungu wetu, na Kumpa utukufu Yesu Kristo, na Kuruhusu maongozi ya Roho Mtakatifu atende kazi ndani yake, basi anayo ruhusa ya kutumia ujumbe uliopo katika makala hii kwa nia ya kiinjili na sio kibiashara.
 
-Katika kitabu hiki utajifunza na kupata maana halisi ya dhana hiyo ya Wokovu/Ukombozi wa mwanadamu,na ni imani na tumaini letu kwamba inaweza kukusaidia kutoka hatua moja katika uelewa wako juu ya dahana hiyo.
+Katika makala hii utajifunza na kupata maana halisi ya dhana ya Wokovu/Ukombozi wa mwanadamu, na ukombozi wa Ulimwengu, na ni imani na tumaini letu kwamba inaweza kukusaidia kutoka hatua moja katika uelewa juu ya dhana hiyo.
 
-Pia katika kitabu hiki utajifunza mtindo mzuri wa namna ya usomaji wa machapishi mbalimbali na namna ya kukusaidia kupata uelewa uliokusudiwa na mwandishi,sote tunatambua na kufahamu kwamba katika uandishi wa kitaaluma kunayo mazingatio mengi yanayozingatiwa na mwandishi ili kufikisha ujumbe wake kwa watu aliowakusudia.Lakini katika kitabu hiki, kusudio kubwa zaidi ni kuleta uelewa na siri ambazo ukizitumia unaweza kupata uelewa mkubwa wakati unapitia machapisho mbalimbali ikiwemo kitabu maarufu zaidi katika ulimwengu wetu **(BIBLIA)**.
+Pia katika makala hii utajifunza mtindo mzuri wa namna ya usomaji wa machapishi mbalimbali na namna ya kukusaidia kupata uelewa uliokusudiwa na mwandishi, sote tunatambua na kufahamu kwamba katika uandishi wa kitaaluma kunayo mazingatio mengi na mwandishi ili kufikisha ujumbe wake kwa watu aliowakusudia. Lakini katika makala hii, kusudio lake kubwa zaidi ni kuleta uelewa na siri ambazo ukizitumia unaweza kupata uelewa mkubwa wakati unapitia machapisho mbalimbali ikiwemo kitabu maarufu zaidi katika ulimwengu wetu **(BIBLIA)**.
 
-## Haki ya matumizi ya kitabu hiki.
+## Haki ya matumizi ya makala hii.
 
-Makala zote zilizomo katika kitabu hiki zinaweza kutumika kwa mafundisho na mtu yeyote atakayepata kibali cha Roho Mtakatifu. Mtu yeyote anayo ruhusa ya kutoa mpangilio wa namna bora ya mtiririko utakaofaa wa kitabu hiki.
-Katika kitabu hiki hakutakuwa na rejea nyingi za mistari ya Biblia bali tutaweka Jina la kitabu na mlango utakaokupasa kuusoma ili kupata undani wa taarifa tuliyoitoa.
+Jumbe zote zilizomo katika makala hii zinaweza kutumika kwa mafundisho, na mtu yeyote atakayepata kibali cha Roho Mtakatifu. Mtu yeyote anayo ruhusa ya kutoa mpangilio wa namna bora ya mtiririko utakaofaa kwa makala hii.
 
-Lengo la kutokuweka mistari mingi ya Bibli ni kuwajenga watu kiuwezo na tabia ya kusoma Biblia kiundani na kuielewa badala ya mazoea yaliyojengeka kwa siku za leo za watu kusoma Biblia kwa mtindo wa vifungu vya kisheria.Tabia hiyo sio kwamba inasababisha watu wengu kutopata uelewa wa kutosha juu ya dhamira ya Mungu kwetu,bali pia inasababisha ukinzani kati ya mstari mmoja na mstari mwingine.
+Katika makala hii hakutakuwa na rejea nyingi za mistari ya Biblia bali tutaweka Jina la kitabu na mlango utakaokupasa kuusoma ili kupata undani wa taarifa iliyoandikwa.
 
-Kutakuwa na sehemu ya maoni na shukrazi kwa ajili ya yeyote mwenye maono na uvuvio wa Roho Mtakatifu kadiri alivyomjalia kupata elimu,tutatoa namna ya kushirikishana mafunuo mbalimbali pamoja na namna ya kushiriki katika masomo yetu ya moja kwa moja.
+Lengo la kutokuweka mistari mingi ya Bibli, ni kuwajenga watu kiuwezo na tabia ya kusoma Biblia kiundani na kuielewa, badala ya mazoea yaliyojengeka kwa siku za leo za watu kusoma Biblia kwa mtindo wa vifungu vifungu, kama kusoma vifungu vya kisheria. Tabia hiyo sio kwamba inasababisha watu wengu kutopata uelewa wa kutosha, bali pia inasababisha ukinzani kati ya mstari mmoja na mstari mwingine.
 
-Mungu baba yetu wa Mbinguni atubariki sisi sote,kwa njia Yesu Kristo aketiye kuume kwa Baba,na kwa msaada wa Roho Mtakatifu aishie ndani mwetu tunaomba Hekima na maarifa katika kuitenda kazi hii Amen.# UTANGULIZI WA AWALI:
+Kutakuwa na sehemu ya maoni na shukrani kwa ajili ya yeyote mwenye maono na uvuvio wa Roho Mtakatifu kadiri alivyomjalia kupata elimu, tutatoa namna ya kushirikishana mafunuo mbalimbali pamoja na namna ya kushiriki katika masomo yetu ya moja kwa moja.
 
-# DHANA YA UKOMBOZI WA MWANADAMU.
+Mungu baba yetu wa Mbinguni atubariki sisi sote, kwa njia ya Yesu Kristo aketiye kuume kwa Baba, na kwa msaada wa Roho Mtakatifu aishie ndani mwetu tunaomba Hekima na maarifa katika kuitenda kazi hii Amen.
 
-Wokovu au ukombozi wa mwanadamu umekuwa ni dhana kubwa miongoni mwa wanajamii wa ulimwengu kwa ujumla,kwa sababu mbalimbali imebaki kuwa dhana au mafikirio yaliyochukuliwa kama imani fulani miongoni mwa wengi kwa sababu mbalimbali.
+## DHANA YA UKOMBOZI WA MWANADAMU.
+
+Wokovu au ukombozi wa mwanadamu umekuwa ni dhana kubwa miongoni mwa wanajamii wa ulimwengu kwa ujumla, kwa sababu mbalimbali imebaki kuwa dhana au mafikirio yaliyochukuliwa kama imani fulani miongoni mwa wengi kwa sababu mbalimbali.
 
 Sababu kubwa iliyopelekea Ukombozi au Wokovu kama wengi wanavyoufahamu kuchukuliwa kama dhana, inatokana na mambo yafuatayo
 
@@ -45,25 +46,25 @@ Sababu kubwa iliyopelekea Ukombozi au Wokovu kama wengi wanavyoufahamu kuchukuli
 
 ## Mitindo ya maisha tuliyorithi kutoka kwa wazee (MAPOKEO).
 
-Jambo hili ndilo kubwa na la kwanza lililopelekea ukombozi wa mwanadamu kuchukuliwa kama dhana fulani, hii ni kutoka na uelewa hafifu wa jamii husika,kiburi na ujinga ulitawala fikra za jamii hiyo,jambo hili limepelekea madhara hasi kwa kiwango kikubwa sana miongoni mwa wanajamii kwa ujumla, kwa kuzingatia kwamba **ukombozi kwa asili yake sio dhana,bali ni mpango rasmi wa Mungu kumwendea mwanadamu.**Mapokeo ni elimu kubwa ambayo sio tu kwamba inafundishwa bali hurithiwa, kwa ufupi ni kwamba ni mila na desturi ya jamii husika.
+Jambo hili ndilo kubwa na la kwanza lililopelekea ukombozi wa mwanadamu kuchukuliwa kama dhana fulani, hii ni kutoka na uelewa hafifu wa jamii husika, kiburi na ujinga ulitawala fikra za jamii hiyo, jambo hili limepelekea madhara hasi kwa kiwango kikubwa sana miongoni mwa wanajamii kwa ujumla, kwa kuzingatia kwamba **ukombozi kwa asili yake sio dhana,bali ni mpango rasmi wa Mungu kumwendea mwanadamu.**Mapokeo ni elimu kubwa ambayo sio tu kwamba inafundishwa bali hurithiwa, kwa ufupi ni kwamba ni mila na desturi ya jamii husika.
 
 ## Ukuaji wa sayansi ya kiteknolojia (UTANDAWAZI).
 
-Ulimwenguni tumamoishi Mungu ametukirimia vipawa na fikra zilizotofautiana kwa kiwango kikubwa sana, fikra zetu hufanya kazi kwa kuzizoeza na kwa kutegemea taaluma rasmi (Elimu),bali vipawa vya wanadamu huwa ni zawadi kutoka kwa Mungu, kila mmoja wetu kwa kadiri alivyokirimiwa. jambo hilo limefanya tutofautiane kwa kiwango kikubwa sana katika uwezo wa kuvumbua na kubuni njia za utatuzi wa mahitaji ya wanadamu kote duniani.
+Ulimwenguni tumamoishi Mungu ametukirimia vipawa na fikra zilizotofautiana kwa kiwango kikubwa sana, fikra zetu hufanya kazi kwa kuzizoeza na kwa kutegemea taaluma rasmi (Elimu), bali vipawa vya wanadamu huwa ni zawadi kutoka kwa Mungu, kila mmoja wetu kwa kadiri alivyokirimiwa. jambo hilo limefanya tutofautiane kwa kiwango kikubwa sana katika uwezo wa kuvumbua na kubuni njia za utatuzi wa mahitaji ya wanadamu kote duniani.
 
 Sayansi inavyozidi kukua inawafanya wanadamu waiangali taaluma hiyo kama njia pekee ya ukombozi wa matatizo yao na taratibu kuanza kutomtegemea Mungu. Ni wazi na dhahiri kwamba katika nyakati tanazoishi leo pindi matatizo yanapoibuka hatua yakwanza huwa hatuhimizani kumuelekea Mungu bali tunaanza kutafuta masuluhisho katika sayansi, na pindi tunapokwama ndipo tunamgeukia MUNGU.
 
 Sio jambo geni nikisema kwamba Mungu ametupa akili ili zitusaidie kuishi katika ulimwengu huu ambao yeye mwenyewe aliuumba kwa stadi na siri yake mwenyewe, ila tukusema akili zetu zinatupa masuluhisho tunaondoa kabisa maana ya msaada wa Mungu na hatutakuwa na sababu ya kumshukuru kwa mambo yote tuyaonayo.Kwa ufupi ni kwamba katika nyakati za leo ni wazi kwamba akilini mwa mwanadamu *(tulio wengi)* inaanza **suluhisho la sayansi kisha anafuata Mungu,na ile amri ya Kumtanguliza Mungu katika kila jambo taratibu itaenda kupotea kabisa.**
 
-## Maingiliano ya kijamii (MAJUMUI/JUMUIA ZA KIJAMII).(INTERGRETION).
+## Maingiliano ya kijamii (MAJUMUI/JUMUIA ZA KIJAMII)/(INTERGRETION).
 
-Kwa kiwango kikubwa jamii za kimataifa zimekuwa na maingiliano makubwa katika zama hizi kuliko ilivyokuwa awali,mitindo ya maisha na taratibu za jamii nyingi duniani kote zimebadilika sana.jambo hili limeleta athari hasi na chanya kwa pamoja.
+Kwa kiwango kikubwa jamii za kimataifa zimekuwa na maingiliano makubwa katika zama hizi kuliko ilivyokuwa awali, mitindo ya maisha na taratibu za jamii nyingi duniani kote zimebadilika sana. jambo hili limeleta athari hasi na chanya kwa pamoja.
 
 ### Athari hasi.
 
 Jamii nyingi zilikuwa na mifumo (mapokeo) ambayo yalikuwa yanawafanya aidha waishi kwa umoja na mshikamano mkubwa kwa nyakati zote shida na raha. ila baada ya mchangamano na jamii zingine ambazo kwao mshikamano ni wa mahusiano ya kifamilia pekee na sio jumuia kwa ujumla, umepelekea kupenyeza tabia hiyo kwenye jamii nyingine kwa njia ya mchangamano kati yao.
 
-Japo umoja na upendo na mshikamano huo ulikuwa unafanyika katika ujinga ila uliwafaa na kuwasaidia watu wa jamii hizo, ila kwa sasa katika sehemu nyingi watu wameanza kupunguza mahusiano ya kijamii na kuanza kuchagiza mahusiano ya kifamilia pekee,hususani maeneo yaliyoendelea zaidi kielimu na mchanganyiko mkubwa wa watu jambo hili ni dhahiri katika maeneo hayo. ubaya zaidi athari hii inaendelea kukua kwa kasi kubwa na mwisho itasambaa katika jamii ya ulimwengu wote.
+Japo umoja na upendo na mshikamano huo ulikuwa unafanyika katika ujinga ila uliwafaa na kuwasaidia watu wa jamii hizo, ila kwa sasa katika sehemu nyingi watu wameanza kupunguza mahusiano ya kijamii na kuanza kuchagiza mahusiano ya kifamilia pekee, hususani maeneo yaliyoendelea zaidi kielimu na mchanganyiko mkubwa wa watu jambo hili ni dhahiri katika maeneo hayo. ubaya zaidi athari hii inaendelea kukua kwa kasi kubwa na mwisho itasambaa katika jamii ya ulimwengu wote.
 
 ### Athari chanya.
 
@@ -73,63 +74,59 @@ Moja ya athari chanya iliyoletwa na mchangamano wa jamii za ulimwengu ni **USTAA
 
 Dini tulizonazo, Upendo tunaooneshashana, Misaada tunayopeana na mambo yenye kufanana na hayo yote tumeachukua katika mchakato wa kuishi kwa kuchangamana na watu tofauti tofauti. katika hili ni jikita zaidi katika upande wa DINI.
 
-Kihistoria sote tunakumbuka kwamba jamii zote za kimataifa zilikuwa na dini zake, yaani kila taifa lilikuwa na **MUNGU WANAYEMWABUDU NA DINI WANAYOIAMINI.**Hivyo suala la imani lilikuwa la kila jamii na imani yao.hata sisi waafrika tulikuwa sehemu ya jamii ya ulimwengu, tulikuwa na mtindo wetu wa ibada na sadaka.
+Kihistoria sote tunakumbuka kwamba jamii zote za kimataifa zilikuwa na dini zake, yaani kila taifa lilikuwa na **MUNGU WANAYEMWABUDU NA DINI WANAYOIAMINI.**Hivyo suala la imani lilikuwa la kila jamii na imani yao. hata sisi waafrika tulikuwa sehemu ya jamii ya ulimwengu, tulikuwa na mtindo wetu wa ibada na sadaka.
 
-Japo yapo mawazo na maoni mengi yanayoweza kuchagiza mitindo hiyo ya kiibada ila yapo mawazo yanayopinga na kulaani mitindo au mifumo hiyo. Ndivyo ilivyo hata sasa katika siku za leo,kila mmoja kwa imani na itikadi aliyonayo anaona kana kwamba mwingine amekosea na kutamani au wakati mwingine kulazimisha watu wote wafane na kile anachokiamini yeye. Jambo hili sio rahisi wala kwetu sisi wanadamu haliwezekani ila kwa Mungu yote yanawezekana kwa maana yeye alituumba anatujua zaidi kuliko sisi tunavyoweza kumjua.
+Japo yapo mawazo na maoni mengi yanayoweza kuchagiza mitindo hiyo ya kiibada ila yapo mawazo yanayopinga na kulaani mitindo au mifumo hiyo. Ndivyo ilivyo hata sasa katika siku za leo, kila mmoja kwa imani na itikadi aliyonayo anaona kana kwamba mwingine amekosea na kutamani au wakati mwingine kulazimisha watu wote wafane na kile anachokiamini yeye. Jambo hili sio rahisi wala kwetu sisi wanadamu haliwezekani ila kwa Mungu yote yanawezekana kwa maana yeye alituumba anatujua zaidi kuliko sisi tunavyoweza kumjua.
 
 Tofauti na changamoto iliyokuwa inawakabili watu wa kale (Wazee wetu) itikadi za kiimani kwa kila taifa kuwa na Mungu na Imani ya Dini zao, katika kizazi cha leo changamoto hiyo inazidi kuwa kubwa na kugawa watu kwa mitizamo tofautitofauti.Ni kweli kwamba kila taifa lilikuwa na Mungu wanayemuamini na kumwabudu, pia mataifa mengine yalikuwa na Miungu mingi na tofauti tofauti wakati mwingine kila jamii ilikuwa na Mungu wake.
 
+## DHANA YA UKOMBOZI.
 
-# DHANA YA UKOMBOZI.
+Wakati Mungu anaanzisha mpango wa kumkomboa mwanadamu kulikuwa na changamoto ambazo tunaweza kuona zilikuwa ndogo kuliko za sasa, ila kwakuwa Mungu anayo makusudi thabiti na mwanadamu basi alitimiza makusudi yake kwetu toka kale ya zamani zile za mababu zetu.
 
-Wakati Mungu anaanzisha mpango wa kumkomboa mwanadamu alikuwa na changamoto ambazo tunaweza kuona zilikuwa ndogo kuliko za sasa ila kwakuwa Mungu anayo makusudi thabiti na mwanadamu na aliyafanya haya toka kale ya zamani zile za mababu zetu.
-
-**Kiini cha UKOMBOZI kuchukuliwa kama dhana.**
+**Kiini cha Ukombozi kuchukuliwa kama dhana.**
 
 Zama za leo mchangamano na ukuaji wa sayansi ya teknolojia imeleta tatizo kuwa kubwa zaidi, hata kufanya *UKOMBOZI AU WOKOVU* kuchukuliwa na kuaminiwa kwamba ni dhana kama zilivyo dhana zingine. Hii ni kutokana kwamba hekima ya mwanadamu ikizidi yanatokea makufuru mbele za Mungu, hivyo wanadamu wamekuwa na kuongezeka kimaarifa na wamejikuta wakiyatukama matukufu ya Mungu kwa kuamini hekima zao wenyewe.
 
 ## Changamoto ya Nyakati za sasa.
 
-1. `Kuibuka kwa taaluma nyingi za kibinadamu zenye kuchanganya maudhui ya dini tofauti tofauti za huu ulimwengu na mawazo ya fikra zao wenyewe.
-1. `Jamii mbalimbali za ulimwengu kumfikiria Mungu kama binadamu mwingine na kumkosoa Mipango na amri zake.
-1. `Kutokutoa Elimu na taarifa sahihi kwa watoto na vijana kwa ajili ya kuwa andaa kurithisha elimu na taarifa hizo kwa kizazi kijacho.
-1. `Kutimizwa kwa makusudi ya Mungu.
+1. Kuibuka kwa taaluma nyingi za kibinadamu zenye kuchanganya maudhui ya dini tofauti tofauti za huu ulimwengu na mawazo yao wenyewe.
+1. Jamii mbalimbali za ulimwengu kumfikiria Mungu kama binadamu mwingine na kumkosoa Mipango na amri zake.
+1. Kutokutoa Elimu na taarifa sahihi kwa watoto na vijana kwa ajili ya kuwa andaa kurithisha elimu na taarifa hizo kwa kizazi kijacho.
+1. Kutimizwa kwa makusudi ya Mungu.
 
 ### Kuibuka kwa taaluma nyingi za kibinadamu zenye kuchanganya maudhui ya dini tofauti tofauti za huu ulimwengu na mawazo ya fikra zao wenyewe.
 
-Kama wewe unayesoma kitabu hiki ni mtafiti na mfuatialiaji wa makala na habari zinaendelea ulimwenguni utagundua kwamba kunazo taaaluma nyingi sana zilizoibuka, na zote zina msingi mmoja tu wa kumpambanua MUNGU. Taaluma au Elimu hizo zinaitwa Falsafa.zifuatazzo ni baadhi ya falsafa na mitizamo yao juu ya MUNGU.
+Kama wewe unayesoma makala hii ni mtafiti na mfuatialiaji wa makala na habari zinaendelea ulimwenguni utagundua kwamba kunazo taaaluma nyingi sana zilizoibuka, na zote zina msingi mmoja tu wa kumpambanua MUNGU. Taaluma au Elimu hizo zinaitwa Falsafa.zifuatazzo ni baadhi ya falsafa na mitizamo yao juu ya MUNGU.
 
 **baadhi ya falsafa hizo ni pamoja na zifuatazo....**
 
-1. `ATHEISM---NO GOD
-1. `AGNOSTICISM---DO NOT KNOW
-1. `ANIMISM---SPIRITS ARE gods
-1. `POLYTHEISM---Many gods
-1. `DUALISM---two gods (good and bad)
-1. `MONOTHEISM---ONE GOD
-1. `DEISM---CREATOR CAN NOT CONTROL
-1. `THEISM---CREATOR CAN CONTROL
-1. `EXISTENTIALISM---EXPERIENCE IS GOD
-1. `HUMANISM---MAN IS GOD
-1. `RATIONALISM---REASON IS GOD
-1. `MATERIALISM--- ONLY MATTER IS REAL
-1. `MYSTICISM---ONLY SPIRITY IS REAL
-1. `MONISM---MATTER & SPIRITY IS ONE
-1. `PANTHEISM---ALL IS GOD
-1. `PANENTHESM---GOD IS IN ALL
+1. ATHEISM --- NO GOD
+1. AGNOSTICISM --- DO NOT KNOW
+1. ANIMISM --- SPIRITS ARE gods
+1. POLYTHEISM --- Many gods
+1. DUALISM --- two gods (good and bad)
+1. MONOTHEISM --- ONE GOD
+1. DEISM --- CREATOR CAN NOT CONTROL
+1. THEISM --- CREATOR CAN CONTROL
+1. EXISTENTIALISM --- EXPERIENCE IS GOD
+1. HUMANISM --- MAN IS GOD
+1. RATIONALISM --- REASON IS GOD
+1. MATERIALISM --- ONLY MATTER IS REAL
+1. MYSTICISM --- ONLY SPIRITY IS REAL
+1. MONISM --- MATTER & SPIRITY IS ONE
+1. PANTHEISM --- ALL IS GOD
+1. PANENTHESM --- GOD IS IN ALL
 
-Hizo ndizo fikra,mitizamo na misimamo ya wwatu/wanadamu wa leo juu ya suala au tafsiri ya Mungu.Na ninapenda nikuhakikishie kwamba hayo mawazo wanayaamini na kuyaishi katika maisha yao ya kila siku, yawezekana wewe ukawa katika moja ya elimu hizo, ila napenda nikuhakikishie ya kwamba hayo yote pamoja na mengine mengi ambayo inawezekana unayajua na hakuorodheshwa katika mtiririko huo.
+Hizo ndizo fikra,mitizamo na misimamo ya watu/wanadamu wa leo juu ya suala au tafsiri ya Mungu. Na ninapenda nikuhakikishie kwamba hayo mawazo wanayaamini na kuyaishi katika maisha yao ya kila siku, yawezekana wewe ukawa katika moja ya elimu hizo, ila napenda nikuhakikishie ya kwamba hayo yote pamoja na mengine mengi ambayo inawezekana unayajua na hakuorodheshwa katika mtiririko huo. Ndio sababu na chanzo cha MUNGU kuanzisha/Kuratibu mpango wa ukombozi wa mwanadamu. **kwa mujibu wa**  ***ISAYA 6:8, ZABURI 111:9, LUKA 2:38,21:28, EFESO 4:30, JOB 36:18.***
 
+## MAANA YA UKOMBOZI.
 
-**Hii ndio sababu na chanzo cha MUNGU kuanzisha/Kuratibu mpango wa ukombozi wa mwanadamu.**kwa mujibu wa ***ISAYA 6:8, ZABURI 111:9, LUKA 2:38,21:28, EFESO 4:30, JOB 36:18.***
+Ukombozi ni hali au kitendo cha kutolewa sehemu moja yenye hatari ya maangamizi ya maisha yako na kupelekwa sehemu nyingine yenye salama kwa maisha yako. kitendo au hali hiyo inafanywa na mtu au kitu chenye nguvu zaidi ya kile kinachokombolewa. kwa ufupi ni kwamba **Ukombozi ni mchakato wa usaidizi kutoka katika hatari kwenda kwenye salama.**
 
-# MAANA YA UKOMBOZI.
+Kitendo hiki kinaweza kufanywa na binadamu katika mazingira ya kibinadamu na pia kinaweza kufanywa na Mungu katika mazingira ya kibinadamu na mazingira ya kiroho. Lakini katika makala hii tutajikita zaidi katika mazingira ya Kiroho na kimwili ila katika uweza wa Mungu.
 
-Ukombozi ni hali au kitendo cha kutolewa sehemu moja yenye hatari ya maangamizi ya maisha yako na kupelekwa sehemu nyingine yenye salama kwa maisha yako. kitendo au hali hiyo inafanywa na mtu au kitu chenye nguvu zaidi ya kile kinachokombolewa. kwa ufupi ni kwamba **Ukombozi ni mchakato wa usaidizi kutoka katika hatari kwenda kwenye dalama.**
-
-Kitendo hiki kinaweza kufanywa na binadamu katika mazingira ya kibinadamu na pia kinaweza kufanywa na Mungu katika mazingira ya kibinadamu na mazingira ya kiroho. Lakini katika kitabu hiki tutajikita zaidi katika mazingira ya Kiroho na kimwili ila katika uweza wa Mungu.
-
-Katika mazingira ya kiroho na kimwili ila katika uweza wa Mungu, inamaanisha wanadamu wana pokea maagizo ya Mungu kwa njia ya Roho na kuyaishi katika mazingira ya mwilini huku wakiwa na msingi wa **IMANI NA TUMAINI LA KUSAIDIWA KUTOKA KATIKA HALI YAO YA MATEKA NA KUWEKWA HURU NA MUNGU.**Ni mazingira tata kwa tafsiri za kibinadamu lakini ni vitu dhahiri na kweli katuka maisha ya watu.
+Inamaanisha wanadamu wana pokea maagizo ya Mungu kwa njia ya Roho na kuyaishi katika mazingira ya mwilini, huku wakiwa na msingi wa **IMANI NA TUMAINI LA KUSAIDIWA KUTOKA KATIKA HALI YAO YA MATEKA NA KUWEKWA HURU KWA UWEZA WA MUNGU.** Ni mazingira tata kwa tafsiri za kibinadamu lakini ni vitu dhahiri na kweli katuka maisha ya watu.
 
 Ili kuweza kuelewa mantiki ya fundisho hili hatunabudi kuelekea katika historia ya Biblia kabla hatujaingia katika mada ya Nia ya ukombozi.
 
@@ -137,13 +134,13 @@ Ili kuweza kuelewa mantiki ya fundisho hili hatunabudi kuelekea katika historia 
 
  ***MWANZO 1:1-31 na MWANZO 2.***
 
-Kufuatia maelezo ya awali mwanzo wa kitabu hiki,tuliona namna watu ulimwenguni walivyokuwa wanaishi kwa taratibu tofauti tofauti kabla ya mchangamano/maingiliano pamoja na ukuaji wa sayansi ya teknolojia. Na jambo kubwa tulilokusudia ilikuwa ni kuona vile watu walivyokuwa wakiishi kwa kila jamii kuwa na Mungu wake na kutegemea Imani yake **(DINI ZA KITAIFA/JAMII).**
+Kufuatia maelezo ya awali mwanzo wa makala hii, tuliona namna watu ulimwenguni walivyokuwa wanaishi kwa taratibu tofauti tofauti kabla ya mchangamano/maingiliano pamoja na ukuaji wa sayansi ya teknolojia. Na jambo kubwa tulilokusudia ilikuwa ni kuona vile watu walivyokuwa wakiishi kwa kila jamii kuwa na Mungu wake na kutegemea Imani yake **(DINI ZA KITAIFA/JAMII).**
 
-Mungu alipoumba Mbingu na Nchi na vitu vyote alimalizia kazi yake ya awali kwa kumuumba mwanadamu,nasema kazi yake ya awali kwa maana aliendelea na kazi hata baada ya kumaliza uumbali wa awali kukamilika. wakati amemaliza uumbaji wa vitu vyote, Mungu aliona ya kwamba vinapendeza na vinafaa kisha alivibariki vyote.
+Mungu alipoumba Mbingu na Nchi na vitu vyote alimalizia kazi yake ya awali kwa kumuumba mwanadamu, nasema kazi yake ya awali kwa maana aliendelea na kazi hata baada ya kumaliza uumbali wa awali kukamilika. wakati amemaliza uumbaji wa vitu vyote, Mungu aliona ya kwamba vinapendeza na vinafaa kisha alivibariki vyote.
 
-Lakini mungu hakuviacha viishi bila utaratibu, aliweka utaratibu wa maisha kwa viumbe vyote kila kimoja kwa jinsi yake, na mwanadamu pia alimpa utaratibu wa kuufuata katika kuendesha maisha yake.Akimuamuru kuitunza na kuilima bustani aliyoipanda, pamoja na kumpa maelekezo ya chakula anachopaswa kula, na kumpa amri ya kile asichopaswa kula wala kukigusa.
+Lakini Mungu hakuviacha viishi bila utaratibu, aliweka utaratibu wa maisha kwa viumbe vyote kila kimoja kwa jinsi yake, na mwanadamu pia alimpa utaratibu wa kuufuata katika kuendesha maisha yake. Akimuamuru kuitunza na kuilima bustani aliyoipanda, pamoja na kumpa maelekezo ya chakula anachopaswa kula, na kumpa amri ya kile asichopaswa kula wala kukigusa.
 
-> **NOTE** Katika mchakato wote wa uumbaji wa Mbingu na Nchi pamoja na mwanadamu, Mungu alikuwa na kusudi na matarajio ya Dunia na viijazavyo kuishi pamoja naye, kwa dhamida hiyo alifanya mahusiano ya maingiliano ya mwanadamu na mazingira yake,pamoja na mahusiano yake yeye binafsi na huyo Mtu aliye muumba. Na hapakuwa na matabaka ya utaifa wala kabila.Bali alikuwa Mungu wa wote.
+> **NOTE** Katika mchakato wote wa uumbaji wa Mbingu na Nchi pamoja na mwanadamu, Mungu alikuwa na kusudi na matarajio ya Dunia na viijazavyo kuishi pamoja naye, kwa dhamida hiyo alifanya mahusiano ya maingiliano ya mwanadamu na mazingira yake, pamoja na mahusiano yake yeye binafsi na huyo Mtu aliye muumba. Na hapakuwa na matabaka ya utaifa wala kabila. Bali alikuwa Mungu wa wote.
 
 ## Sababu ya Mungu kuanzisha ukombozi.
 
@@ -151,256 +148,343 @@ Lakini mungu hakuviacha viishi bila utaratibu, aliweka utaratibu wa maisha kwa v
 
 ***Mwanzo 3:1-24.***
 
-Baada ya yote kukamilika kama ulivyosoma katika kitabu cha mwanzo mlango wa kwanza na wa pili,sasa ili kupata sababu ya Mungu kuanzisha safari ya ukombozi hatuna budi kusogea chini zaidi na kusoma kisa cha mwanadamu aliyepewa maagizo na Mungu na kuyakiuka kwa kufuata **FUNDISHO** ambalo hakupewa na Mungu baada ya kuumbwa kwake.Mwanadamu alifata elimu kutoka kwa Nyoka baada ya kumlaghai Mwanamke kwa kumtia nia ya kuyaasi maagizo ya Mungu *(KUTOKULA MATUNDA YA MTI WA KATIKATI YA BUSTANI)*.Kwa kitendo hicho upotevu ukaingia kwa njia ya **fundisho la ulaghai na kitendo cha uasi.**
+Baada ya yote kukamilika kama ulivyosoma katika kitabu cha mwanzo mlango wa kwanza na wa pili, sasa ili kupata sababu ya Mungu kuanzisha safari ya ukombozi hatuna budi kusogea chini zaidi na kusoma kisa cha mwanadamu aliyepewa maagizo na Mungu na kuyakiuka kwa kufuata **FUNDISHO** ambalo hakupewa na Mungu baada ya kuumbwa kwake. Mwanadamu alifata elimu kutoka kwa Nyoka baada ya kumlaghai Mwanamke kwa kumtia nia ya kuyaasi maagizo ya Mungu *(KUTOKULA MATUNDA YA MTI WA KATIKATI YA BUSTANI)*. Kwa kitendo hicho upotevu ukaingia kwa njia ya **fundisho la ulaghai na kitendo cha uasi.**
 
-Baada ya uasi huo tunaona Mungu anamtoa huyo mtu katika himaya yake na kumweka katika Nchi ili ailime na kujitafutia riziki kwa njia ya hiy ardhi.Lakini uasi huo haukuleta athari kwa mwanadamu pekee kupoteza urithi wake alioandaliwa na Mungu bali ulifanya hata wanyama na arthi kulaaniwa na Mungu.Hivyo laana hiyo ilipelekea kila alichokiumba na kukifanya kupoteza sifa ile aliyoikusudia siku ya uumbaji wake.
+Baada ya uasi huo tunaona Mungu anamtoa huyo mtu katika himaya yake na kumweka katika Nchi ili ailime na kujitafutia riziki kwa njia ya hiy ardhi. Lakini uasi huo haukuleta athari kwa mwanadamu pekee kupoteza urithi wake alioandaliwa na Mungu bali ulifanya hata wanyama na arthi kulaaniwa na Mungu. Hivyo laana hiyo ilipelekea kila alichokiumba na kukifanya kupoteza sifa ile aliyoikusudia siku ya uumbaji wake.
 
 > **NOTE:**Kwa kosa la mwanadamu,lilipelekea vitu vyote kubadilika,vile alivyokuwa amedhamiria Mungu viwe ilibadilika,baraka ikawa laana.
-1. `*Nyoka aliyekuwa mwerevu kuliko hayawani wote,alilaaniwa kuliko hayawani wote.*
-1. `*Ardhi iliyokuwa imebarikiwa ikalaaniwa tangu pale.*
-1. `*Mtu aliyekuwa amepewa agizo la kuzaana na kuiongeza dunia,akazidishiwa uchungu wa kuzaa kwake.*
-1. `*Taabu ya utafutaji wa riziki ukaongezwa.*
+1. *Nyoka aliyekuwa mwerevu kuliko hayawani wote, alilaaniwa kuliko hayawani wote.*
+1. *Ardhi iliyokuwa imebarikiwa ikalaaniwa tangu pale.*
+1. *Mtu aliyekuwa amepewa agizo la kuzaana na kuiongeza dunia,akazidishiwa uchungu wa kuzaa kwake.*
+1. *Taabu ya utafutaji wa riziki ukaongezwa.*
 
 Vitu vyote hivyo hatukuviona siku Mungu alipoumba Mbingu na Nchi na mwanadamu na vyote vilivyoumbwa,bali vinaibuka baada ya kosa ya Ulaghai kwa njia ya fundisho na kosa la uasi kwa kutenda kinyume cha Amri ya Mungu.
 
 > **Hapa ndipo penye kiini na dhamira/nia ya Ukombozi.**
 
-# NIA YA UKOMBOZI/WOKOVU.
+## NIA YA UKOMBOZI/WOKOVU.
 
 (MUNGU ANATAKA KUREJESHA HADHI NA KUSUDIO LA UUMBAJI).***YOHANA 3:16.***
 
-  Tuukitafakari hatua moja mbele toka pale tulipoyatuliza mawazo yetu,tutagundua kwamba nia na shaba ya Mungu kumuumba mwanadamu ni ili apate Mtu wa kushirikiana naye katika kutawala Dunia.na ndio maana alipomaliza uumbaji akamwambia mwanadamu *Zaeni mkaongezeke,mkatawale wanyama na ndege na kila kiumbe.*,kwa ufupi ni kwamba Mungu alikuwa amepata mshirika atakayetawala pamoja naye.
+  Tuukitafakari hatua moja mbele toka pale tulipoyatuliza mawazo yetu, tutagundua kwamba nia na shaba ya Mungu kumuumba mwanadamu ni ili apate Mtu wa kushirikiana naye katika kutawala Dunia. na ndio maana alipomaliza uumbaji akamwambia mwanadamu *Zaeni mkaongezeke,mkatawale wanyama na ndege na kila kiumbe.*, kwa ufupi ni kwamba Mungu alikuwa amepata mshirika atakayetawala pamoja naye.
   
-Hivyo baada ya upotoshwaji na uasi,Mungu alipoteza mshirika muhimu sana aliyekuwa akitaraji kushirikiana naye,hivyo kwa hekima yake akaona aanzishe mpango wa ukombozi.Hivyo Mungu akaanza kumfuatilia mwanadamu kwa matendo yake toka siku ile alipomtoa katika bustani ya Edeni.
+Hivyo baada ya upotoshwaji na uasi, Mungu alipoteza mshirika muhimu sana aliyekuwa akitaraji kushirikiana naye, hivyo kwa hekima yake akaona aanzishe mpango wa ukombozi. Hivyo Mungu akaanza kumfuatilia mwanadamu kwa matendo yake toka siku ile alipomtoa katika bustani ya Edeni.
 
 ***Mungu anataka kurejesha mahusiano na Mshirika aliyemuumba ili watawale pamoja.***
 
-# MAAGANO YA MUNGU NA WANADAMU NA MWANZO WA HISTORIA YA UKOMBOZI.
+## MAAGANO YA MUNGU NA WANADAMU NA MWANZO WA HISTORIA YA UKOMBOZI.
 
-Ukiwa mfuatiliaji wa kina au msomaji mzuri na makini ya Biblia,utagundua Mngun alikusudia kuanzisha ukombozi kwa ulimwengu mzima,ila machukizo ya wanadamu yakazidi katika nchi naye Mungu akaghairi kwamba alimfanya Mtu,ndipo akaamusa kuangamiza watu wote kwa gharika ya maji.maarufu kama **(GHARIKA YA NUHU).**
+Ukiwa mfuatiliaji wa kina au msomaji mzuri na makini ya Biblia,utagundua Mngun alikusudia kuanzisha ukombozi kwa ulimwengu mzima, ila machukizo ya wanadamu yakazidi katika nchi naye Mungu akaghairi kwamba alimfanya Mtu, ndipo akaamusa kuangamiza watu wote kwa gharika ya maji. maarufu kama **(GHARIKA YA NUHU).**
 
-> **NOTE**Hapa pia tunaona Mwanadamu alikosa mbele za Mungu lakini Mungu alivilaani vitu pamoja na wanyama wote na kuwaangamiza,ila kosa ni la mwanadamu,ipo siri kubwa sana iliyojificha kati ya Mungu na mwanadamu.
+> **NOTE**Hapa pia tunaona Mwanadamu alikosa mbele za Mungu lakini Mungu alivilaani vitu pamoja na wanyama wote na kuwaangamiza, ila kosa ni la mwanadamu, ipo siri kubwa sana iliyojificha kati ya Mungu na mwanadamu.
 
 
 ## Agano ni nini?
 
-Agano ni aina ya mkataba unaotengeneza/kuandaliwa na upande mmoja,kwa madhumuni mahususi kati ya pande mbili zinazotarajia kuafikiana juu ya agano hilo.Tofauti kati ya aina hii ya mkataba na aina zingize ni kwamba mkataba huu hautoi fursa kwa pande zote kuafikiana juu ya masharti yake,ila unatoa nafasi ya aidha kukubali au kukataa.
+Agano ni aina ya mkataba unaotengeneza/kuandaliwa na upande mmoja,kwa madhumuni mahususi kati ya pande mbili zinazotarajia kuafikiana juu ya agano hilo. Tofauti kati ya aina hii ya mkataba na aina zingize ni kwamba mkataba huu hautoi fursa kwa pande zote kuafikiana juu ya masharti yake, ila unatoa nafasi ya aidha kukubali au kukataa.
 
-Kama ilivyo katika mikataba mingine,kuvunjika kwake kunaweza kuwa kwa matendo(Implication) au usitishwaji rasmi (Unfairness)legal unenforceable.Ila kwa kuwa mkataba huu sio wa maridhiano mara zote unavunjika kwa matendo (Implication).Hivyo katika maagano yote Mungu amekuwa akiwapa wanadamu maagizo yake pamoja na ahadi atakazozitekeleza pindi watakapotimiza masharti ya agano lake.
+Kama ilivyo katika mikataba mingine, kuvunjika kwake kunaweza kuwa kwa matendo (Implication) au usitishwaji rasmi (Unfairness) legal unenforceable. Ila kwa kuwa mkataba huu sio wa maridhiano mara zote unavunjika kwa matendo (Implication). Hivyo katika maagano yote Mungu amekuwa akiwapa wanadamu maagizo yake pamoja na ahadi atakazozitekeleza pindi watakapotimiza masharti ya agano lake.
 
 ## Agano la kwanza katika historia.(Neema pasipo sheria)
 
 ***(MWANZO 6:1 NA MWANZO 9:9-16)***.
 
-Agano la kwanza katika historia ya Biblia lilitokea Baada ya gharika kupita Mungu aliweka Agano lake la kwanza kabisa katika historia ya Biblia,kati yake na Mwanadamu,akimuahakikishia kutokumuangamiza kwa maangamizi makuu ya maji kama ilivyotokea.Lakini pia tunaona Mungu anatoa maagizo mengine ya namna watakavyopaswa kuishi na vyakula wanavyopaswa kula,kama vile alivyofanya baada ya kumuumba Adamu.
+Agano la kwanza katika historia ya Biblia lilitokea Baada ya gharika kupita Mungu aliweka Agano lake la kwanza kabisa katika historia ya Biblia, kati yake na Mwanadamu, akimuahakikishia kutokumuangamiza kwa maangamizi makuu ya maji kama ilivyotokea. Lakini pia tunaona Mungu anatoa maagizo mengine ya namna watakavyopaswa kuishi na vyakula wanavyopaswa kula, kama vile alivyofanya baada ya kumuumba Adamu.
 
-Mbali na maelekezo aliyowapa lakini jambo la msingi ninalotaka tulizingatie ni Agano kati yake na Nuhu na kizazi chake chote pamoja na vyote vyenye mwili.Mungu anatengeneza na kulithibitisha Agano lake kwao.
+Mbali na maelekezo aliyowapa lakini jambo la msingi ninalotaka tulizingatie ni Agano kati yake na Nuhu na kizazi chake chote pamoja na vyote vyenye mwili. Mungu anatengeneza na kulithibitisha Agano lake kwao.
 
-> **NOTE** Hadi wakati huu Mungu anaweka agano lake na Nuhu ilikuwa ni agano pia kwa ulimwengu mzima.hapakuwa na upekee wala malumbano ya kiimani kati ya taifa moja na lingine juu ya Mungu.na pia Mungu hakuwa amenasibisha taifa lolote au mtu yeyote na yeye,bali alijipambanua kama Mungu wa wote wenye uhai na mwili yaani Mungu wa dunia nzima.
+> **NOTE** Hadi wakati huu Mungu anaweka agano lake na Nuhu ilikuwa ni agano pia kwa ulimwengu mzima. hapakuwa na upekee wala malumbano ya kiimani kati ya taifa moja na lingine juu ya Mungu. na pia Mungu hakuwa amenasibisha taifa lolote au mtu yeyote na yeye, bali alijipambanua kama Mungu wa wote wenye uhai na mwili yaani Mungu wa dunia nzima.
 
 ## Agano la pili katika historia ya Biblia.(Sheria pasipo neema)
 
 ***(MWANZO 15:17 NA MWANZO 17:1-33 ).***
 
-Baada ya kuona agano la kwanza katika historia ya Mungu na wanadamu,hapa tunaona agano lingine kati ya Mungu na wanadamu,lakini agano hili la pili lina upekee kidogo kwa sababu sio agano la watu wote ulimwenguni,hasha,bali ni agano kati ya Mungu na Mtu mmoja yaani Ibrahimu.
+Baada ya kuona agano la kwanza katika historia ya Mungu na wanadamu, hapa tunaona agano lingine kati ya Mungu na wanadamu, lakini agano hili la pili lina upekee kidogo kwa sababu sio agano la watu wote ulimwenguni, hasha,bali ni agano kati ya Mungu na Mtu mmoja yaani Ibrahimu.
 
-Agano hili ni agano linalobeba kiini cha msingi wa ujumbe wa kitabu hiki.Maana kutokea katika agano hili,ndipo tutakuja kukutana na agano la tatu na la mwisho kati ya Mungu na wanadamu.Ila kabla hatujafikia huko ni vyema tukaangalia agano hili la pili lilifanyika kati ya Mungu na mtu mmoja tena zaidi akimuahidi kwa umaalumu,kwamba ni kati yake (Ibrahimu) na kizazi chake.
+Agano hili ni agano linalobeba kiini cha msingi wa ujumbe wa kitabu hiki. Maana kutokea katika agano hili, ndipo tutakuja kukutana na agano la tatu na la mwisho kati ya Mungu na wanadamu. Ila kabla hatujafikia huko ni vyema tukaangalia agano hili la pili lilifanyika kati ya Mungu na mtu mmoja tena zaidi akimuahidi kwa umaalumu, kwamba ni kati yake (Ibrahimu) na kizazi chake.
 
-> **NOTE** Vilevile katika agano hi kama yalivyitangulia yale ya nyuma toka uumbaji hata nuhu,Mungu anaendelea na utaratibu ule ule wa kutoa maagizo ya namna ya kuishi na namna watakavyokula na kuendesha maisha yao ili alitunze agano lake.
+> **NOTE** Vilevile katika agano hi kama yalivyitangulia yale ya nyuma toka uumbaji hata nuhu, Mungu anaendelea na utaratibu ule ule wa kutoa maagizo ya namna ya kuishi na namna watakavyokula na kuendesha maisha yao ili alitunze agano lake.
 
 ## Ahadi kabla ya agano.
 
-Ukisoma katika maandiko hayo utaona Mungu anaanza kumpa Ibrahimu ahadi kabla ya kumpa Agano,kisha baadaye Mungu anatimiza ahadi yake ya kwanza kwa Ibrahimu,na kuacha ahadi zingine kwa uzao wake.
+Ukisoma katika maandiko hayo utaona Mungu anaanza kumpa Ibrahimu ahadi kabla ya kumpa Agano, kisha baadaye Mungu anatimiza ahadi yake ya kwanza kwa Ibrahimu, na kuacha ahadi zingine kwa uzao wake.
 
 ### Ahadi Mungu alizompa Ibrahimu .......
  
- 1. `Kumpa Mrithi (uzao) ingawa yeye na mkewe wote walikuwa wazee sana,hususani mkewe hata mzunguko wake ulikuwa umekoma.
+ 1. `Kumpa Mrithi (uzao) ingawa yeye na mkewe wote walikuwa wazee sana, hususani mkewe hata mzunguko wake ulikuwa umekoma.
  1. `Kumpa nchi ile ya ugeni aliyoikalia kuwa urithi wa vizazi vyake.
  1. `Kumpa uzao mwingi katika nchi (Mataifa mengi).
  1. `Mataifa kubarikiwa kupitia Ibrahimu.
  
 ### Kumpa Mrithi (uzao) ingawa yeye na mkewe wote walikuwa wazee sana,hususani mkewe hata mzunguko wake ulikuwa umekoma.
 
-Ahadi hii ilitimizwa na Mungu hata kabla Ibrahimu hajafa,kwa maana Mungu alimpatia uza kwa Mjakazi Hajra akamzalia mwana wa kiume jina lake (Ishmael) na pia Mungu alitimiza ahadi yake kwa mkewe mzee sana Sara kumzalia mwana wa kiume aitwae (Isack).
+Ahadi hii ilitimizwa na Mungu hata kabla Ibrahimu hajafa, kwa maana Mungu alimpatia uza kwa Mjakazi Hajra akamzalia mwana wa kiume jina lake (Ishmael) na pia Mungu alitimiza ahadi yake kwa mkewe mzee sana Sara kumzalia mwana wa kiume aitwae (Isack).
 
 #### `Kumpa nchi ile ya ugeni aliyoikalia kuwa urithi wa vizazi vyake.
 
-Mungu alimwambia Ibrahimu kwamba nchii ntakupa wewe na uzao wako kuwa urithi wako,lakini pia Mungu alimwambia Ibrahimu kwamba kizazi cha nne baada yake ndio watakaoirithi nchi ile aliyomuahidi.ahadi ambayo Mungu aliitimiza kupitia Musa.japo Ibrahimu hakuwa hai wakati huo lakini aliirithi nchi pamoja nao kwa kuitunza ile imani yake kwa Mungu na kuamini kwamba Mungu alilolisema atalitimiza.
+Mungu alimwambia Ibrahimu kwamba nchii ntakupa wewe na uzao wako kuwa urithi wako, lakini pia Mungu alimwambia Ibrahimu kwamba kizazi cha nne baada yake ndio watakaoirithi nchi ile aliyomuahidi. ahadi ambayo Mungu aliitimiza kupitia Musa.japo Ibrahimu hakuwa hai wakati huo lakini aliirithi nchi pamoja nao kwa kuitunza ile imani yake kwa Mungu na kuamini kwamba Mungu alilolisema atalitimiza.
 
-Lakini kupitia ahadi hii kumetokea migogoro mikubwa ya kijiografia na kisiasa katika mashariki yakati katika zama hizi tunazoishi,hasa ikizingatiwa kwamba taratibu za mifumo ya kiutawala dunisni zimebadilika sana na haziwiani hata kidogo na mifumo iliyokuwa inafanya kazi wakati huo wa maagano haya.Ila katika yote tunakubali ya kwamba ahadi za Mungu lazima zitimie aidha ukiwa umeamini au nakutokuamini kwako.
+Lakini kupitia ahadi hii kumetokea migogoro mikubwa ya kijiografia na kisiasa katika mashariki yakati katika zama hizi tunazoishi, hasa ikizingatiwa kwamba taratibu za mifumo ya kiutawala dunisni zimebadilika sana na haziwiani hata kidogo na mifumo iliyokuwa inafanya kazi wakati huo wa maagano haya. Ila katika yote tunakubali ya kwamba ahadi za Mungu lazima zitimie aidha ukiwa umeamini au nakutokuamini kwako.
 
-#### Kumpa uzao mwingi katika nchi (Mataifa mengi).
+### Kumpa uzao mwingi katika nchi (Mataifa mengi).
 
-Katika ahadi hii,tunaona wazi na dhahiri kwamba Mungu aliitimiza ahadi hii kupitia uzao wa Ibrahimu,yaani kupitia Ishmael ambaye alizaa mabwana 12 lakini zaidi Isack ambaye alimzaa Jackob na baadae kupitia Jackob akazaa wana 12 wanaume,nao wakaongezeka katika nchi hata nyakati zile za kutoka katika nchi ya utumwa walikuwa na idadi kubwa ya watu.
+Katika ahadi hii, tunaona wazi na dhahiri kwamba Mungu aliitimiza ahadi hii kupitia uzao wa Ibrahimu, yaani kupitia Ishmael ambaye alizaa mabwana 12 lakini zaidi Isack ambaye alimzaa Jackob na Esau na baadae kupitia Jackob akazaa wana 12 wanaume, nao wakaongezeka katika nchi hata nyakati zile za kutoka katika nchi ya utumwa walikuwa na idadi kubwa ya watu.
 
-Lakini katika historia pia hili halijifichi,leo tunaweza kuona Mataifa yote ya Kiarafu ambayo baba yao ndio Ishmael na taifa la Israel pamoja na kutawanyika kwako ni udhihirisho wa ahadi hii ya Mungu kutimizwa kama alivyomuahidi Ibrahimu.
+Lakini katika historia pia hili halijifichi, leo tunaweza kuona Mataifa yote ya Kiarafu ambayo baba yao ndio Ishmael na taifa la Israel pamoja na kutawanyika kwako ni udhihirisho wa ahadi hii ya Mungu kutimizwa kama alivyomuahidi Ibrahimu.
 
-#### Uzao wa imani.
+### Uzao wa imani.
 
-Katika hili,pia kunao unasaba wa uzao wa Imani,kama Ibrahimu alivyomuendea na kudumu kwa Mungu kwa imani basi hata hao watu wamuendeao Mungu na kudumu kwake kwa imani wanahesakiwa kuwa wana wa Ibrahimu kwa kuitegemea imani ile ambayo Ibrahimu alikuwa nayo kwa Mungu.
-
-
+Katika hili, pia kunao unasaba wa uzao wa Imani, kama Ibrahimu alivyomuendea na kudumu kwa Mungu kwa imani basi hata hao watu wamuendeao Mungu na kudumu kwake kwa imani wanahesakiwa kuwa wana wa Ibrahimu kwa kuitegemea imani ile ambayo Ibrahimu alikuwa nayo kwa Mungu.
 
 #### Mataifa kubarikiwa au kulaaniwa kupitia Ibrahimu.
 
-Ahadi hii ni ahadi ambayo imechochea mgogoro mkubwa san wa kiimani na Mtizamo juu ya Mungu.kimsingi kupitia ahadi hii ni kana kwamba dunia imegawanyika kimsimamo na kiimani.kama tulivyotangulia kuona mwanzo wakitabu hiki basi migogoro yote na mingine mingi chanzo na kiini chake ni hapa katika ahadi hii ya Mungu kwa Ibrahimu.
+Ahadi hii ni ahadi ambayo imechochea mgogoro mkubwa sana wa kiimani na Mtizamo juu ya Mungu. kimsingi kupitia ahadi hii ni kana kwamba dunia imegawanyika kimsimamo na kiimani. kama tulivyotangulia kuona mwanzo makala hii basi migogoro yote na mingine mingi chanzo na kiini chake ni hapa katika ahadi hii ya Mungu kwa Ibrahimu.
 
-Baada ya haya yote kutimia Mungu kupitia mkono wa musa aliwatoa wana wa Israel kutoka misri na akawapitisha jangwani na kutangatanga kwa miaka Arobaini,kisha wakaingia katika nchi ambayo Mungu aliwaahidi baba zao yaani ***Ibrahimu,Isack na Jackob***.Kisha Israeli ikapita katika vipindi vingi na nyakati za baraka na laana,Mazuri na maovu mbele za Mungu.
+Baada ya haya yote kutimia Mungu kupitia mkono wa musa aliwatoa wana wa Israel kutoka misri na akawapitisha jangwani na kutangatanga kwa miaka Arobaini, kisha wakaingia katika nchi ambayo Mungu aliwaahidi baba zao yaani ***Ibrahimu, Isack na Jackob***. Kisha Israeli ikapita katika nyakati za baraka walipotenda mambo Mazuri na nyakati za laana pindi walipotenda maovu mbele za Mungu.
 
-Wakaja **Manabii**,wakaja **waamuzi** wakaja **wafalme** lakini Israeli haikuweza kudumu katika Agano ambalo Mungu aliagana na baba zao hapo kale.Kwa sababu agano lile lilikuwa la mwilini.Hivyo Licha ya **mapigo** aliyokuwa akiwapa,**fadhili** alizokuwa akiwaonesha na **wajumbe** aliokuwa akiwatuma kwao,vyote hivyo havikuweza kuwabadilisha mioyo yao ili waziache njia zao mbaya.
+Wakaja **Manabii**, wakaja **waamuzi** wakaja **wafalme** lakini Israeli haikuweza kudumu katika Agano ambalo Mungu aliagana na baba zao hapo kale. Kwa sababu agano lile lilikuwa la mwilini. Hivyo Licha ya **mapigo** aliyokuwa akiwapa, **fadhili** alizokuwa akiwaonesha na **wajumbe** aliokuwa akiwatuma kwao, vyote hivyo havikuweza kuwabadilisha mioyo yao ili waziache njia zao mbaya.
 
-kwa kuwa Mungu alivyoahidi kwamba Agano lile alilowaapia baba zao litakuwa la milele,basi Mungu akafanya Agano jipya ili kulitimiza Agano lake hilo ambalo walikuwa wakiliasi mara kwa mara.
+kwa kuwa Mungu alivyoahidi kwamba Agano lile alilowaapia baba zao litakuwa la milele, basi Mungu akafanya Agano jipya ili kulitimiza Agano lake hilo ambalo walikuwa wakiliasi mara kwa mara. ***ZABURI 89:34***
 
+## MASWALI YALIYOPELEKEA MGAWANYIKO WA ITIKADI ZA IMANI.
 
-# MASWALI YALIYOPELEKEA MGAWANYIKO WA ITIKADI ZA IMANI.
+Kwakweli maswali yanayoleta ukakasi juu ya usahihi wa maandiko na masuala ya kiimani ni mengi sana, kwasababu kila kukicha dunia inakuja na fikra mpya na zakileo zaidi na kuyapuuza yale ambayo hata kwa ushahidi wa wazi yanathibitisha ukweli. Jambo hilo linafanya wengi kubaki njia panda kwamba kunaukweli wowote juu ya haya yaliyoandikwa ?. Kwa majibu mepesi na yenye kuegemea itikadi za kiimani unaweza ukapatwa na hasira ila kwa kuzingatia utoshelevu wa kiu ya elimu basi inatupasa kutafuta ushahidi na kuutetea baada ya kujiridhisha kwa yale tuyasemayo.
 
-***ZABURI 89:34***
+Hapa chini nitajikita katika maswali yaliyokuwa yanatawala vichwa vya watu na haswa jamii zilizochangamana mapema zaidi na Taifa la Israeli, maswali mengi yalirekodiwa na kutunzwa na mengine yalipotea lakini baadhi ya maswali hayo yalikuwa na dodoso zifuatazo.
 
-- Je,ni upi usahihi wa Kibiblia na kihistoria juu ya Ahadi hii?
-- Je, ni ukweli kwamba ukimbariki Ibrahimu nawe utabarikiwa?
-- Je,ni kwanini Mungu achague mtu mmoja na familia yake na sio watu wote duniani?
-- Je, ni kwanini Mungu achague taifa moja kujidhihirisha kwa wengine na sio taifa na jamii kwa tofauti zao?
-- Je,ni kweli Mungu wa Ibrahimu,Isack na Jackob ndio Mungu wa watu wote?
-- Je, ni kweli kwamba Mungu wa Israeli ndio Mungu wa ulimwengu wote?
-- Je, ni kweli kwamba kupitia Israel ulimwengu wote utaokolewa?
-- Je, kwa nini Israel na sio taifa jingine?
+## Maswali na Majibu.
 
-## Majibu.
+Majibu ya maswali yote yapo wazi sana katika vitabu vya historia, vitabu vya falsafa, vitabu vya imani mbalimbali za kidini pamoja na Biblia yenyewe. Tatizo ni kwamba wengi wetu tumebeba hisia za kibinadamu zaidi katika mambo yamuhusuyo Mungu.
 
-Majibu ya maswali yote yapo wazi sana katika vitabu vya historia,vitabu vya falsafa,vitabu vya imani mbalimbali za kidini pamoja na Biblia yenyewe.Tatizo ni kwamba wengi wetu tumebeba hisia za kibinadamu zaidi katika mambo yamuhusuyo Mungu.
+**- Je, ni upi usahihi wa Kibiblia na kihistoria juu ya Ahadi hii ?**
 
-- Leo tunapozungumzia Dunia kuwa na utambuzi wa uwepo wa Mungu mmoja aiyeonekana ambaye hakufanywa ka kazi ya mikoni ya wanadamu,mwenye kubariki watu wote bila upendeleo basi tutamtaja kuwa ni Mungu wa Ibrahimu,Isack na Yackob,kama yeye mwenyewe alivyojipambanua kwa kizazi kile na kisha baadaye kupitia mwanawe Yesu Kristo.
+ Leo tunapozungumzia Dunia kuwa na utambuzi wa uwepo wa Mungu mmoja aiyeonekana ambaye hakufanywa ka kazi ya mikoni ya wanadamu, mwenye kubariki watu wote bila upendeleo basi tutamtaja kuwa ni Mungu wa Ibrahimu, Isack na Yackob, kama yeye mwenyewe alivyojipambanua kwa kizazi kile na kisha baadaye kupitia mwanawe Yesu Kristo.
 
-- Kumbariki Ibrahimu ni kushiriki naye imani katika Mungu,kwamba unamuamini Mungu bila shaka yeyote hata ungali katikati ya watu wasiomjua wala kumtaja,lakini zaidi pasipo mafundisho ya wanadamu ila ukajitoa kwa Mungu kwa moyo na imani isiyo na shaka ndani yake.
+**- Je, ni ukweli kwamba ukimbariki Ibrahimu nawe utabarikiwa ?**
 
-- Mungu kumchagua mtu mmoja na familia yake,ilikuwa na tafsiri kubwa mbili,tafsiri ya kwanza ni kwamba,Mungu alikuwa anabadilisha mpango wa ukombozi wa ulimwengu baada ya ule wa awali kufanyiwa uasi.Lakini pili ili kuleta wanadamu katika familia moja,yaani kuendeleza umoja ambao aliukusudia toka anaiumba Mbingu na Nchi.
+ Kumbariki Ibrahimu ni kushiriki naye imani katika Mungu, kwamba unamuamini Mungu bila shaka yeyote hata ungali katikati ya watu wasiomjua wala kumtaja, lakini zaidi pasipo mafundisho ya wanadamu ila ukajitoa kwa Mungu kwa moyo na imani isiyo na shaka ndani yake.
 
-- Mungu alijidhihirsha kwa watu wote hapo awali na kuwaletea ukombozi kwa pamoja,lakini waliasi na kuzifuata njia zao wenyewe,na kiini cha kuchagua Taifa moja ni kwasababu Mtu aliyechagua kumtumia alikuwa wa taifa hiyo,lakini awali Mungu aliweka agano lake na Ibrahimu na uzai wake yaani Familia moja tu.
+**- Je, ni kwanini Mungu achague mtu mmoja na familia yake na sio watu wote duniani ?**
 
-- Tusipokubali kwamba Mungu wa Ibrahimu na Isack na Jackob ndio Mungu wetu,kwa sababu tu ya hisia zetu za kibinadamu,basi tutakuwa tunafanya makufuru makubwa sana mbele za Mungu wetu,maana tumeona dhahiri kwamba Mungu aliyekuwa akiwahangaikia watu wote hapo mwanzo wa uumbali mpaka wakati wa ile ghatika ndio Mungu huyohuyo aliyekuja kumchagua Ibrahimu ili aendeleze mchakato wake wa ukombozi.
+ Mungu kumchagua mtu mmoja na familia yake, ilikuwa na tafsiri kubwa mbili, tafsiri ya kwanza ni kwamba, Mungu alikuwa anabadilisha mpango wa ukombozi wa ulimwengu baada ya ule wa awali kufanyiwa uasi. Lakini pili ili kuleta wanadamu katika familia moja, yaani kuendeleza umoja ambao aliukusudia toka anaziumba Mbingu na Nchi.
 
-- Ni kweli kabisa kwamba kupitia Israeli Mungu ameamua kuuokoa ulimwengu wote,na wokovu uatatufikia kila mmoja wetu kwanjia ya Ibrahimu ambaye ailiibeba imani ambayo Yesu Kristo alikuja kutudhihirishia na kuikamilisha,lakini zaidi wokovu utaufikia ulimwengu wote kupitia Israel.
+**- Je, ni kwanini Mungu achague taifa moja kujidhihirisha kwa wengine na sio taifa na jamii kwa tofauti zao ?**
 
-- Munguameichagua Israel kwa makusudi yake mwenyewe,na kwamba sio kwa sababu walikuwa wanastahili,hasha ila kwa sababu walipataa kibali machoni pake kupitia agano alilofanya na baba yao Ibrahimu,ndio maana kuna andiko lisemalo,***Sikuwachagua kwa kuwa mlikuwa mnafaa/mnastahili bali mmestahili/mmefaa kwa sababu nimewachagua.***Hivyo Mungu aliichagua Israel ili kwamba wapokee baraka ya Mungu na washiriki baraka hiyo na ulimwengu wote.
+ Mungu alijidhihirsha kwa watu wote hapo awali na kuwaletea ukombozi kwa pamoja,lakini waliasi na kuzifuata njia zao wenyewe, na kiini cha kuchagua Taifa moja ni kwasababu Mtu aliyechagua kumtumia alikuwa wa taifa hilo, lakini awali Mungu aliweka agano lake na Ibrahimu na uzao wake yaani Familia moja tu.
+
+**- Je, ni kweli Mungu wa Ibrahimu,Isack na Jackob ndio Mungu wa watu wote ?**
+
+ Tusipokubali kwamba Mungu wa Ibrahimu na Isack na Jackob ndio Mungu wetu, kwa sababu tu ya hisia zetu za kibinadamu, basi tutakuwa tunafanya makufuru makubwa sana mbele za Mungu wetu, maana tumeona dhahiri kwamba Mungu aliyekuwa akiwahangaikia watu wote hapo mwanzo wa uumbali mpaka wakati wa ile gharika ndio Mungu huyohuyo aliyekuja kumchagua Ibrahimu ili aendeleze mchakato wake wa ukombozi.
+
+**- Je, ni kweli kwamba kupitia Israel ulimwengu wote utaokolewa ?**
+
+ Ni kweli kabisa kwamba kupitia Israeli Mungu ameamua kuuokoa ulimwengu wote, na wokovu utatufikia kila mmoja wetu kwanjia ya Ibrahimu ambaye aliibeba imani ambayo Yesu Kristo alikuja kutudhihirishia na kuikamilisha, lakini zaidi wokovu utaufikia ulimwengu wote kupitia Israel.
+
+**- Je, kwa nini Israel na sio taifa jingine ?**
+
+ Munguameichagua Israel kwa makusudi yake mwenyewe, na kwamba sio kwa sababu walikuwa wanastahili, hasha ila kwa sababu walipata kibali machoni pake kupitia agano alilofanya na baba yao Ibrahimu, ndio maana kuna andiko lisemalo, ***Sikuwachagua kwa kuwa mlikuwa mnafaa/mnastahili bali mmestahili/mmefaa kwa sababu nimewachagua. *** Hivyo Mungu aliichagua Israel ili kwamba wapokee baraka ya Mungu na washiriki baraka hiyo na ulimwengu wote.
 
 ##Shabaha ya taifa moja
 
-Mwalimu mmoja alitoa mfano akasema.Ni kama wewe unapokuwa na watoto watatu au zaidi,kisha unataka kuwapa zawadi,ukiwanunulia kila mmoja yakwake,utakuwa umefanya vyema lakini hutawajenga kuwa familia moja yenye upendo na kila mmoja kumjali mwenzake,ila utakuwa umewaepushia mikwaruzano na ugomvi wa kugombania zawadi.
+Mwalimu mmoja alitoa mfano akasema. Ni kama wewe unapokuwa na watoto watatu au zaidi, kisha unataka kuwapa zawadi, ukiwanunulia kila mmoja ya kwake, utakuwa umefanya vyema lakini hutawajenga kuwa familia moja yenye upendo na kila mmoja kumjali mwenzake, ila utakuwa umewaepushia mikwaruzano na ugomvi wa kugombania zawadi.
 
-Lkini kwa mzazi anayetaka kuijenga familia yenye mshikamano na umoja na upendo,badi njia nzuri ni kununua zawadi moja na kuwapa kupitia mmoja wao kisha wagawane au awagawie wengine,hivyo watajifunza umoja na upendo na kuwa familia moja.
+Lakini kwa mzazi anayetaka kuijenga familia yenye mshikamano na umoja na upendo, basi njia nzuri ni kununua zawadi moja na kuwapa kupitia mmoja wao kisha wagawane au awagawie wengine, hivyo watajifunza umoja na upendo na kuwa familia moja.
 
-> **NOTE** Lengo la Mungu kumkomboa mtu ni ili arejeshe mahusiano ya kifamilia na watu wake ambao aliwaumba kwa kusudi la kuwa pamoja,hivyo hata kama atampa kila mtu kwa kadiri apendavyo,lakini hataileta familia pamoja katika upendo na umoja na kwa kufanya hivyo atatengeneza familia zenye matabaka,ndiyo sababu haswa ya kuichagua Israel.
+> **NOTE** Lengo la Mungu kumkomboa mtu ni ili arejeshe mahusiano ya kifamilia na watu wake ambao aliwaumba kwa kusudi la kuwa pamoja,hivyo hata kama atampa kila mtu kwa kadiri apendavyo, lakini hataileta familia pamoja katika upendo na umoja na kwa kufanya hivyo atatengeneza familia zenye matabaka, ndiyo sababu haswa ya kuichagua Israel.
 
-Ila tujiulize sote,kama Mungu amejidhihirisha kwetu kupitia Israel lakini bado tumejenga matabaka makubwa na yenye mvutano mkubwa kiasi hiki,je,angekuwa anajidhihirisha kwa kila taifa peke yake kungekuwa na hali gani.?Maana sote tunajua kwamba zamani hizo za mababu zetu kulitokea machafuko na vita kati ya taifa na taifa,ufalme na ufalme kwa sababu ya Miungu,kila falme/taifa lilitaka mungu wao ndio aabudiwe na kupewa heshima,Je, leo ingekuwaje.?
+Ila tujiulize sote, kama Mungu amejidhihirisha kwetu kupitia Israel lakini bado tumejenga matabaka makubwa na yenye mvutano mkubwa kiasi hiki,je, angekuwa anajidhihirisha kwa kila taifa peke yake kungekuwa na hali gani?, Maana sote tunajua kwamba zamani hizo za mababu zetu kulitokea machafuko na vita kati ya taifa na taifa, ufalme na ufalme kwa sababu ya Miungu, kila falme/taifa lilitaka mungu wao ndio aabudiwe na kupewa heshima, Je, leo ingekuwaje.?
 
 Mimi binafsi naiona hekima kubwa ya Mungu inayozidiufahamu wetu katika kila alifanyalo,nami nampa nafasi katika fikra zangu apate kunitumia na kunifunulia hekima yake, hivyo kwa kumalizia niseme tu kwamba alichagua Israel........
 
 **Kwanza ilikuwa kwa sababu ya Agano aliloweka na Ibrahimu,lakini pili ni kwa ajili ya kujenga familia moja kusudi kuifikia dhamira ya uumbaji.** ***(ISAYA 42:5--)***
 
-
-# AGANO JIPYA.(Neema na sheria)
+## AGANO JIPYA.(Neema na sheria)
 
 (AGANO LA TATU)***YEREMIA 31:27--EZEKIELI 37-- ISAYA 11:*** 
 
-Utabiri wa manabii juu ya ahadi ya Mungu ya kuweka agano jipya kwa Israel na ulimwengu wote.Kama ahadi ya agano la pili ilipotimizwa kupitia **MUSA**.utabiri huu ulifanywa na manabii kwa nyakati tofauti tofauti,na ulitimizwa kupitia **YESU KRISTO**.
+Utabiri wa manabii juu ya ahadi ya Mungu ya kuweka agano jipya kwa Israel na ulimwengu wote. Kama ahadi ya agano la pili ilipotimizwa kupitia **MUSA**.utabiri huu ulifanywa na manabii kwa nyakati tofauti tofauti,na ulitimizwa kupitia **YESU KRISTO**.
 
-Kwa kuwa Mungu alipomuumba mtu alimpa **neema** tele ili kwa hiyo neema awze kuishi,lakini hata baada ya myu huyo kuasi maagizo ya Mungu,Mungu hakuifutilia mbali neema yake.Na pia kwa kukumbuka kwamba wakati anaitimiza ahadi yake aliyoiweka kwa Ibrahimu na kuwaapia Isack na Jackob,ahadi ya kuirithi nchi na kuyabariki mataifa kupitia kwao,Mungu alimpa Musa **sheria**,ambazo ziliwapasa kuzitimiza zote ili kwazo waishi,na mtu asiyezitimiza alipaswa kuangamia.
+Kwa kuwa Mungu alipomuumba mtu alimpa **neema** tele ili kwa hiyo neema awze kuishi, lakini hata baada ya myu huyo kuasi maagizo ya Mungu, Mungu hakuifutilia mbali neema yake. Na pia kwa kukumbuka kwamba wakati anaitimiza ahadi yake aliyoiweka kwa Ibrahimu na kuwaapia Isack na Jackob, ahadi ya kuirithi nchi na kuyabariki mataifa kupitia kwao, Mungu alimpa Musa **sheria**, ambazo ziliwapasa kuzitimiza zote ili kwazo waishi, na mtu asiyezitimiza alipaswa kuangamia.
 
-## Neema VS Sheria.
+## Neema vs Sheria.
 
-*Neema ni hali ya kuhesabiwa kustahili juu ya jambo fulani hata kama haustahili jambo hilo,Au kuhesabiwa ukamilifu angali una mapungufu.Kitendo hiki kinategemea san nia/dhamira ya moyo wa mtu,yaani yupo mtu anaweza kutenda kitendo kwa dhamira njema ila kikawa kimekiuka taratibu za sheria.*
+*Neema ni hali ya kuhesabiwa kustahili juu ya jambo fulani hata kama haustahili jambo hilo, Au kuhesabiwa ukamilifu angali una mapungufu. Kitendo hiki kinategemea sana nia/dhamira ya moyo wa mtu, yaani yupo mtu anaweza kutenda kitendo kwa dhamira njema ila kikawa kimekiuka taratibu za sheria.*
 
-*Sheria ni hali ya kuhesabiwa haki/thawabu kwa kadiri ya ulivyotenda kwa mujibu wa sheria yenyewe,Au kutenda matendo kwa mujibu wa sheria.Kitendo hiki kinategemea sana ujuzi na umakini wa akili yako,yaani inakupasa kutenda sawa sawa na sheria inavyokata,hivyo imekupasa hata ikibidi kutokutenda jambo jema kama sheria imekutaka usitende.Yaani hata kama mauvu yanateteka kama sheria haikuruhusu kukemea basi hupaswi kufanya hivyo.*
+*Sheria ni hali ya kuhesabiwa haki/thawabu kwa kadiri ya ulivyotenda kwa mujibu wa sheria yenyewe, Au kutenda matendo kwa mujibu wa sheria. Kitendo hiki kinategemea sana ujuzi na umakini wa akili yako, yaani inakupasa kutenda sawa sawa na sheria inavyokata, hivyo imekupasa hata ikibidi kutokutenda jambo jema kama sheria imekutaka usitende. Yaani hata kama mauvu yanateteka kama sheria haikuruhusu kukemea basi hupaswi kufanya hivyo.*
 
-Katika agano hili Mungu anasema ataiandika sheria yake katika mioyo ya watu,si katika vitubu tena,na watu wote watamjua kuanzia mkubwa hata aliye mdogo naye atakuwa Mungu wao na wao watakuwa watu wake.
+Katika agano hili Mungu anasema ataiandika sheria yake katika mioyo ya watu,si katika vitubu tena, na watu wote watamjua kuanzia mkubwa hata aliye mdogo naye atakuwa Mungu wao na wao watakuwa watu wake.
 
-Katika agano hili tutajifunza mambo muhimu zaidi,mambo ambayo yanalibeba agano,ili kwamba wa tusije tukaingia katika makosa yale yale waliyoyafanya baba zetu katika maagano yaliyotangulia.Ninasema ni muhimu kujifunza tunu za agano hili la tatu kwa sababu linatuhusu sisi sote,kwa maana tumeunganishwa na agano jipya kwa njia ya imani.
+Katika agano hili tutajifunza mambo muhimu zaidi, mambo ambayo yanalibeba agano, ili kwamba wa tusije tukaingia katika makosa yale yale waliyoyafanya baba zetu katika maagano yaliyotangulia. Ninasema ni muhimu kujifunza tunu za agano hili la tatu kwa sababu linatuhusu sisi sote, kwa maana tumeunganishwa na agano jipya kwa njia ya imani.
 
 ## Mtangulizi wa mbeba agano.
 
-Palitokea mtu jina lake Yohana aliyekuwa akibatiza watu katika Israeli,Yohana alihubiri habari ya toba kwa ajili ya ondolea la dhambi.Yohana aliwaonya watu dhidi ya matendo yao yasiyompendeza Mungu,na kuwapa Toba kwa ajili ya kutubu dhambi,**UBATIZO KWA AJILI YA TOBA**.
+Palitokea mtu jina lake Yohana aliyekuwa akibatiza watu katika Israeli, Yohana alihubiri habari ya toba kwa ajili ya ondolea la dhambi. Yohana aliwaonya watu dhidi ya matendo yao yasiyompendeza Mungu, na kuwapa Toba kwa ajili ya kutubu dhambi, **UBATIZO KWA AJILI YA TOBA**.
+
+Basi watu walitoka kumwendea Yohana Mbatizaji na wakabatizwa huku wakiisha kutubu dhambi zao, wakati ule ule Yohana angali anabatiza Alikuja kwake YESU KRISTO ili kwamba abatizwe na Yohana, lakini Yohana alisita na kumwambia Yesu **"Ilinipasa mimi nibatizwe na wewe."**Yesu akamjibu akamwambia **"Imetupasa kuitimiza haki yote."** au imetupasa kufanya jambo lililo sahihi.Basi Yohana akambatiza Yesu katika mto Jordani, na tazama baada ya kubatizwa sauti ikatoka juu mbinguni ikisema "(Huyu ni mwanangu mpendwa ninayependezwa naye, Yashikeni atakayowafundisha)."
+
+Lakini kabla ya hayo kutokea tazama wakati Yesu anakuja ili abatizwe, Yohana mbatizaji alimnena Yesu kwa kadiri ya maono aliyokuwa ameoneshwa na Bwana Mungu.**"Tazama mwanakondoo wa Mungu,aichukuaye dhambi ya ulimwengu."** na kisha kusema "Huyu ndiye niliyekuwa nikinena habari zake,  kwamba yupo ajaye nyuma yangu ambaye alipaswa kuwa mbele yangu, naye ni mkuu kuliko mimi maana sipaswi kulegeza hata gidamu za viatu vyake."
+
+Lakini wakati Yohana anabatiza watu kabla ya kumbatiza Yesu,watu walimuuliza Je,wewe ni Kristo? Naye akajibu akisema "mimi siye". Nao wakamuuliza kama sio Kristo mbona basi unabatiza? *(kwa maana Israeli walijua kupitia utabiri wa manabii kwamba atakapokuja Kristo atabatiza)*. Akajibu akawaambia "mimi nawabatiza ninyi kwa maji kwa ajili ya Toba, lakini yupo ajae nyuma yangu naye alipaswa kuwa mbele yangu, Yeye huyo atawabatiza kwa Roho mtakatifu". akiwa ananena habari za Yeau Kristo.
+
+## MSINGI WA AGANO JIPYA.
+
+**HISTORIA YA BIBLIA.**
+
+kuzaliwa kwake Yesu Kristo, kulikwa kwa kipekee sana, tofauti kabisa na sayansi ya kibinadamu. Alizaliwa na binti bikira ambaye hakuwahi kumjua mwanamume, na hakuwa na baba mwanadamu, kwa maana mama yake alichukua mimba kwa uweza wa Roho mtakatifu. Siku ya kuzaliwa kwake ilikuwa siku ya kuhesabiwa wayahudi wote, kwa sababu ya wingi wa watu katika mji wa kabila la wayahudi wazazi wake walikosa sehemu/nyumba ya wageni. Na kwa sababu siku za kuzaa kwake huyo mwanamke zilikuwa zimefika, ilibidi watafute sehemu ili mwanamke Maria aweze kujifungua, ndipo wakapata nafasi katika hori la ng'ombe/sehemu ya kulishia ng'ombe.
+
+Baada ya kuzaliwa kwake, ilitoka Nyota kuu katika anga, na wataamu wa nyota walipoiona wakaitambua kwamba nyota ile sio nyota ta kawaida, ila ilikuwa ni nyota ya isha kwamba kuna mtu mwenye ukuu/ufalme amezaliwa. ndipo wakaondoka ili kwenda kumuona huyo mtoto aliyezaliwa mwenye mamlaka iliyo kuu. Pia habari zile zilienea sehemu kubwa katika nchi, hata zikamfikia Mfalme HERODE. Naye alipoyajua hayo akapatwa na sononeko akiwaza kwamba ufalme wake unakwenda kuondoka, basi akaazimia na kutoa amri kwamba watoto wote waliozaliwa wenye miezi miwili kurudi chini wauwawe.
+
+Lakini malaika wa Bwana Mungu akamtokea Yusufu, Mume wake huyo mama yake Yesu Kristona kumwambia amchukue mama na mtoto nao waondoke waende Nchini Misri mpaka pale amri ile ya mfalme itakapomalizika ili mtoto asije kudhurika. Naye Yusufu akafanya kama Bwana Mungu alivyomwagiza.
+
+Baada ya hayo yote kupita Yesu alipotimiza umri wa miaka 12 kama ilivyo desturi ua wayahudi, alipelekwa katika Hekalu ili kwamba atimize yote yampasayo kwa Mujibu wa taratibu za Torati,naye alipofika huko alikuwa akiwasikiliza wazee na kuwauliza maswali ambayo yaliwafanya wamstaajabie hekima yake ilivyokuwa kubwa angali ana umri mdogo.
+
+Kisha Yesu akaendelea kukua hata katika kimo na maaarifa huku akimpendeza Mungu na watu pia, akifanya kazi na kuwasaidia wazazi wake katika majukumu yao ya kila siku. Hata alipopata umri wa miaka 30 ndopo alipoianza kazi yake rasmi na hiyo ni baada ya kubatizwa na Yohana Mmbatizaji katika Yordani na baada ya kujaribiwa na Ibilisi jangwani. Kisha akaanza kwa kukusanya wanafunzi ili apate kuwafundisha siri za Mungu na kuwapa kati ya kuwa mashahidi wa Agano jipya kwa uyahudi na ulimwengu wote pia.
+
+## FUNDISHO NA ISHARA ZA UWEZA WA YESU KRISTO.
+
+Kwa hakika mambo aliyoyafanya Yesu Kristo katika kipindi chake alichokuwepo hapa duniani,kama maandiko yanavyosema kwamba, Endapo yangeandikwa Yote aliyoyasema na kuyafanya Yesu hata vitabu vya kujaza ulimwengu visingetosha. Ila yapo mambo makuu yaliyofanywa naye au ambayo yalifanya watu wamwamini lakini na wengine kumchukia kwa sababu ya kuzifanya ngumu fikra zao, yafuatayo ni mambo aliyoyafanya Yesu na kuudhihirisha ukuu wa Mungu kwa watu wote, na habari zake kuishi hata nyakati hizi za sasa.
+
+## Yesu Kufanya Miujiza juu ya vitu.
+
+Yeau alifanya miujiza juu ya vitu vya kimazingira, na muujiza wa kwanza wa Yesu ulikuwa kubadilisha maji kuwa divai/mvinyo, Muujiza huu aliufanya katika sherehe ambayo yeye na mama yake pamoja na wanafunzi aliokuwa nao walihudhuria, pamoja na huo Yesu pia alifanya miujiza mingi kupitia vitu, ***Kutuliza mawimbi ya bahari, Kuulaani mtini nao ukakauka, Kutembea juu ya maji, Kulisha watu 5000 mikate 5 na samaki 2, Kutoa fedha katika tumbo la samaki***, nk.
+
+## Yesu Kufanya miujiza juu ya watu.
+
+Yesu alifanya miujiza mingi zaidi juu ya watu zaidi kuliko vitu, jambo hilo lilimfanya wengi kumsadiki japokuwa wakuu wa watu na viongozi walio wengi walimpinga. ***Yesu aliponya wagonjwa wasiojiweza, Kukemea na kutoa pepo wachafu nao wakamtii, Kuponya vipofu, Kukufua wafu, jambo ambalo wengi miongoni mwa watu walilistaajabia sana.
 
 
-Basi watu walitoka kumwendea Yohana Mbatizaji na wakabatizwa huku wakiisha kutubu dhambi zao,wakati ule ule Yohana angali anabatiza Alikuja kwake YESU KRISTO ili kwamba abatizwe na Yohana,lakini Yohana alisita na kumwambia Yesu **"Ilinipasa mimi nibatizwe na wewe."**Yesu akamjibu akamwambia **"Imetupasa kuitimiza haki yote."** au imetupasa kufanya jambo lililo sahihi.Basi Yohana akambatiza Yesu katika mto Jordani,na tazama baada ya kubatizwa sauti ikatoka juu mbinguni ikisema "(Huyu ni mwanangu mpendwa ninayependezwa naye,Yashikeni atakayowafundisha)."
+## Mafundisho ya Yesu.
 
-Lakini kabla ya hayo kutokea tazama wakati Yesu anakuja ili abatizwe, Yohana mbatizaji alimnena Yesu kwa kadiri ya maono aliyokuwa ameoneshwa na Bwana Mungu.**"Tazama mwanakondoo wa Mungu,aichukuaye dhambi ya ulimwengu."**na kisha kusema "Huyu ndiye niliyekuwa nikinena habari zake,ya kwamba yupo ajaye nyuma yangu ambaye alipaswa kuwa mbele yangu,naye ni mkuu kuliko mimi maana sipaswi kulegeza hata gidamu za viatu vyake."
+Yesu alipokuwa akifundisha watu, alikuwa akisema mambo ambayo wengi walishangaa na wengi wao hawakuelewa maana ya maneno yake, kwa maana Yesu alitumia mifano mingi na methali katika kufundisha kwake.mafundisho yake yaliwahukumu wengi mioyoni mwao, wengi wakatubu na kumfuata, wengine wakistaajabia maneno yake yalivyokuwa yamejaa hekima. alifundisha akiwaambia watu habari ya Ufalme wa Mungu.
 
-Lakini wakati Yohana anabatiza watu kabla ya kumbatiza Yesu,watu walimuuliza Je,wewe ni Kristo? Naye akajibu akisema "mimi siye".Nao wakamuuliza kama sio Kristo mbona basi unabatiza watu? *(kwa maana Israeli walijua kupitia utabiri wa manabii kwamba atakapokuja Kristo atabatiza)*.Akajibu akawaambia "mimi nawabatiza ninyi kwa maji kwa ajili ya Toba,lakini yupo ajae nyuma yangu naye alipaswa kuwa mbele yangu,Yeye huyo atawabatiza kwa Roho mtakatifu".akiwa ananena habari za Yeau Kristo.
+## Ushuhuda wa Yesu.
 
-# MSINGI WA AGANO JIPYA.
+Yesu alishuhudiwa kwanza na Yohana mbatizaji, kisha akashuhudiwa na Mbingu kwa njia ya Roho mtakatifu, kisha baadae wanafunzi wake wenyewe ya kwamba ndiye Kristo ambaye kupitie yeye Israeli na ulimwengu utakombolewa kutoka katika dhambi zao. Lakini yesu mwenyewe alisema na watu hao akiwaambia, mimi sishuhudiwi kwa ushuhuda wa mwanadamu bali 
 
-HISTORIA YA BIBLIA.
+***Baba yangu aliyenituma ndiye anishuhudiaye kupitia hizo kazi nizifanyazo kwenu, ambazo hakuna mtu aliyewahi kuzifanya hapo kabla***.
 
-kuzaliwa kwake Yesu Kristo,kulikwa kwa kipekee sana,tofauti kabisa na sayansi ya kibinadamu.Alizaliwa na binti bikira ambaye hakuwahi kumjua mwanamume,na hakuwa na baba mwanadamu,kwa maana mama yake alichukua mimba kwa uweza wa Roho mtakatifu.Siku ya kuzaliwa kwake ilikuwa siku ya kuhesabiwa wayahudi wote,kwa sababu ya wingi wa watu katika mji wa kabila la wayahudi wazazi wake walikosa sehemu/nyumba ya wageni.Na kwa sababu siku za kuzaa kwake huyo mwanamke zilikuwa zimefika,ilibidi watafute sehemu ili mwanamke Maria aweze kujifungua,ndipo wakapata nafasi katika hori la ng'ombe/sehemu ya kulishia ng'ombe.
+***Musa aliwaandikia na alinena juu yangu, na maandiko mnayo nayo yananena juu yangu nanyi hamtaki kuja kwangu muupate uzima***
 
-Baada ya kuzaliwa kwake,ilitoka Nyota kuu katika anga,na wataamu wa nyota walipoiona wakaitambua kwamba nyota ile sio nyota ta kawaida,ila ilikuwa ni nyota ya isha kwamba kuna mtu mwenye ukuu/ufalme amezaliwa.ndipo wakaondoka ili kwenda kumuona huyo mtoto aliyezaliwa mwenye mamlaka iliyo kuu.Pia habari zile zilienea sehemu kubwa katika nchi,hata zikamfikia Mfalme HERODE.Naye alipoyajua hayo akapatwa na sononeko akiwaza kwamba ufalme wake unakwenda kuondoka,basi akaazimia na kutoa amri kwamba watoto wote waliozaliwa wenye miezi miwili kurudi chini wauwawe.
+***Kama hamniamini mimi basi ziaminini hizo kazi nizifanyazo.***
 
-Lakini malaika wa Bwana Mungu akamtokea Yusufu,Mume wake huyo mama yake Yesu Kristona kumwambia amchukue mama na mtoto nao waondoke waende Nchini Misri mpaka pale amri ile ya mfalme itakapomalizika ili mtoto asije kudhurika.Naye Yusufu akafanya kama Bwana Mungu alivyomwagiza.
+## Utakatifu wa Yesu.
 
-Baada ya hayo yote kupita Yesu alipotimiza umri wa miaka 12 kama ilivyo desturi ua wayahudi,alipelekwa katika Hekalu ili kwamba atimize yote yampasayo kwa Mujibu wa taratibu za Torati,naye alipofika huko alikuwa akiwasikiliza wazee na kuwauliza maswali ambayo yaliwafanya wamstaajabie hekima yake ilivyokuwa kubwa angali ana umri mdogo.
+Moja ya jambo kubwa na la upekee sana la Yesu Kristo katikati ya watu, ni kwamba Yesu alikuwa mtakatifu kiasi cha watu wote waliomshuhudia haswa wale wabaya wake yaani hao wakuu wa wayaudi, ambao walikuwa wakimuuliza maswali kwa lengo la kumtafuta aseme neno tofauti na sheria ili wamkamate wamshitaki ...... 
 
-Kisha Yesu akaendelea kukua hata katika kimo na maaarifa huku akimpendeza Mungu na watu pia,akifanya kazi na kuwasaidia wazazi wake katika majukumu yao ya kila siku.Hata alipopata umri wa miaka 30 ndopo alipoianza kazi yake rasmi na hiyo ni baada ya kubatizwa na Yohana Mmbatizaji katika Yordani na baada ya kujaribiwa na Ibilisi jangwani.Kisha akaanza kwa kukusanya wanafunzi ili apate kuwafundisha siri za Mungu na kuwapa kati ya kuwa mashahidi wa Agano jipya kwa uyahudi na ulimwengu wote pia.
+***Kwa kosa gani mnanishuhudia kuwa ni mkosefu ?*** nao hawakuona kosa la Yesu Kristo. Hiyo ni kuonesha kwamba Yesu aliishi maisha matakatifu kiasi kwamba hata wabaya wake walitafuta tafuta neno dhidi yake wapate kumshitaki nalo au kumshutumu kwalo lakini hawakupata.
 
-# FUNDISHO NA ISHARA ZA UWEZA WA YESU KRISTO.
+***Ni kweli kwamba umetoka kwa Mungu, maana hakuna awezaye kutenda yote uyatendayo kama Mungu hayupo pamoja naye.*** Maneno haya ni maneno ya NIKODEMU ambaye alikuwa mkuu wa mwalimu wa dini ya wayahudi. akusema kwamba alizitenda kazi zilizokuwa zinadhihirisha utukufu wa Mungu na sio utukufu wake, kitendo hichi ni kusema kwamba Yesu alifunika utukufu wake na kumuinua Mungu atukuke zaidi ili MUNGU NAYE AMUINUE YEYE **(YESU KRISTO)**.
 
-Kwa hakika mambo aliyoyafanya Yesu Kristo katika kipindi chake alichokuwepo hapa duniani,kama maandiko yanavyosema kwamba,Endapo yangeandikwa Yote aliyoyasema na kuyafanya Yesu hata vitabu vya kujaza ulimwengu visingetosha.Ila yapo mambo makuu yaliyofanywa naYeau ambayo yalifanya watu wamwamini lakini na wengine kumchukia kwa sababu ya kuzifanya ngumu fikra zao,yafuatayo ni mambo aliyoyafanya Yesu na kuudhihirisha ukuu waMungu kwa watu wote,na habari zake kuishi hata nyakati hizi za sasa.
+***Mwalimu mwema*** Mafundisho ya Yesu Kristo yalibeba wema wa kimungu ndani yake, kiasi kwamba hata wanafunzi na makutano walipokuwa wakiyasikia walistajaabu mara kadhaa wakitafakari hekima ya Mungu pamoja na mamlaka aliyokuwa nayo Yesu Kristo hata mapepo na nguvu zingine kutiishwa kwa mamlaka hiyo.
 
-## 1. ` Yesu Kufanya Miujiza juu ya vitu.
+## NJIA YA UKOMBOZI.
 
-Yeau alifanya miujiza juu ya vitu vya kimazingira,na muujiza wa kwanza wa Yesu ulikuwa kubadilisha maji kuwa divai/mvinyo/Muujiza huu aliufanya katika sherehe ambayo yeye na mama yake pamoja na wanafunzi aliokuwa nao walihudhuri,pamoja na huo Yesu pia alifanya miujiza mingi kupitia vitu,***Kutuliza mawimbi ya bahari,Kuulaani mtini nao ukakauka,Kutembea juu ya maji,Kulisha watu 5000 mikate 5 na samaki 2,Kutoa fedha katika tumbo la samaki***, nk.
+**Utangulizi.....**
 
-## 1. ` Yesu Kufanya miujiza juu ya watu.
+Ukombozi wa mwanadamu unatukana na Upendo wa Mungu ulimwengu, Mungu aliona namna ambavyo mwanadamu anaendea mauti ya mwili na roho yake mwenyewe pasipo hekima ya Mungu. Kwa sababu hii Mungu alianzisha mpango wa Ukombozi wa mwanadamu (WOKOVU). Katika nyakati zote za hustoria ya Imani ya Mwanadamu kwa Mungu hapajawahi kuwepo agano ambalo Mwanadamu alipewa nafasi kubwa ya upendeleo na Mungu kama nyakati za agano Jipya la Yesu Kristo.
 
-Yesu alifanya miujiza mingi zaidi juu ya watu zaidi kuliko vitu,jambo hilo lilimfanya wengi kumsadiki japokuwa wakuu wa watu na viongozi walio wengi walimpinga.***Yesu aliponya wagonjwa wasiojiweza,Kukemea na kutoa pepo wachafu nao wakamtii,Kuponya vipofu,Kukufua wafu jambo ambalo wengi miongoni mwa watu walilistaajabia sana.
+Upendeleo huo unatokana na ukweli kwamba, Mungu alimpa mwanadamu fundisho la kweli yake na nia na dhamira yake ya kuvifanya vitu vyote (SIRI YA UUMBAJI). Katika kipindi hiki ndipo Mungu Baba alijidhihirisha kwa ulimwengu kupitia Yesu Kristo, jambo ambalo hakuwahi kulifanya hapo kwanza. Udhihirisho wake ulikuwa wa kipekee dana kwa maana alikuja kwa namna ya kibinadamu ili apate kuwaokoa wanadamu wenye mwili wa udhaifu na Roho zilizojaa ufisadi.
+
+Katika agano hili Jipya ndipo Mungu Baba anawajuza wanadamu mambo muhimu na ya kweli kwa kufafanua yale aliyokwisha kuwapa maagizo toka mwanzo, na maelekezo pamoja na ufunuo aliutoa kwa watu wote wa ulimwengu, tofauti na wakati wa awali ambapo alitoa maelekezo (Amri) kwa familia moja ambayo baadae aliifanya kuwa Taifa. Maelekezo kwa ulimwengu wote ndio nguvu ya agano jipya, agano ambalo kwa mujibu wa Biblia hakutakuwako agano lingine kati ya Mungu na mwanadamu isipokuwa mpaka utakapotimia ule mwisho wa vyote (Yaani vitu vyote kufanywa upya).
+
+Ufunuo pamoja na uafafanuzi juu ya mambo ambayoyo Bwana Mungu aliwapa wanadamu hapo ka yalikuwa ya namna ya Mifano ili kusudi waenende katika ustaarabu wa mwili kati yao. lakini ufafanuzi wa agano jipya ni juu ya kweli ya Mungu na njia ya kumrejea yeye, katika mambo aliyoyatolea ufafanuzi Yesu Kristo ni pamoja na yafuatayo.
+
+1. NAMNA SAHIHI YA KUMWABUDU MUNGU (MUNGU NI ROHO HIVYO IMEWAPASA WALE WAMUABUDUO, KUMWABUDU KATIKA ROHO NA KWELI)
+1. NAMNA YA UTOAJI SADAKA (ITOENI MIILI YENU KUWA DHABIHU TAKATIFU MBELE ZA MUNGU)
+1. MAANA YA HEKEALU (MIILI YENU NDIYO HEKALU LA MUNGU)
+1. MAANA YA KUTOKULA WANYAMA NAJISI (KIMWINGIACHO MTU HAKIMTII UNAJISI BALI KILE KIMTOKACHO)
+1. KUTOA UFAFANUZI JUU YA ISHARA ZA NYAKATI ZA MWISHO (KIZITIZAMA ISHARA ZA MAJIRA YATAKAYOKUJA BAADAYE)
+1. KUTOA NAMNA YA KUZITIMIZA AMRI ZA MUNGU (KUSHIKA AMRI KUU)
+1. UFAFANUZI JUU YA NAMNA BORA YA UTAWALA WA DUNIANI (KUTOKUCHANGANYA MAMBO (UFALME) WA MUNGU NA YA DUNIA)
+
+Haya ni baadha ya mambo machache ambayo yalileta mapinduzi makubwa sana wakati Yesu alipokuwa akifundisha na kutenda kazi za Baba yake aliyemtuma, pamoja na hayo yapo mengi ambayo Biblia pamoja na vitabu vingine vimeyatunza katika kumbukumbu zake. ni dhahiri kwamba unaweza ukawa na meseji zingine zenye nguvu kubwa ambazo Mungu aliwafunulia watu wake kupitia Yesu Kristo.
+
+## Hatua za mwanzo za  ukombozi wa wana wa Israeli.
+
+***Maandiko yanasema kwamba "Wokovu watoka kwa wayahudi" kwa maana mpango wa ukombozi wa mwanadamu ulianzia kwa wayahudi hapo mwanzo baada ya Adam na Eva kupata anguko kwa kutokutii sheria waliyopewa na Bwana Mungu. Kisha akaja Yesu Kristo miongoni mwa wayahudi ambaye ndiye Mwana wa Mungu aliyetolewa kama sadaka ya upatanisho kati ya Mungu na wanadamu. Yesu alizaliwa katika Bethlehemu ya uyahudi na akalelewa na kukua katika tamaduni na ustaarabu wa kiyahudi. Lakini zaidi ya hayo ni dhahiri kwamba hata watu wa kwanza kusikia na kuiamini Injili walikuwa ni wayahudi, kwa kuanza na Wanafunzi kumi na wawili ambao aliwachagua Yesu mwenyewe na kisha baadae aliwapa baraka na Mungu akawapa mamlaka itokayo kwake wakawa mitume wa kwanza wa Agano Jipya.***
+
+> NOTE: Kwa kusema hayo inamaana maagano yote ya Mungu na wanadamu yalianza na kundi dogo la wayahudi kisha kuenea kwa ulimwengu mzima, na hiyo inamaanisha Mungu huwa anapanda mbegu kisha inamea na kuchanua na kuzaa kwa kadiri ya makusudio yake yeye mwenyewe. Hivyo wokovu unaozungumzwa na kutendeka leo hii, mwanzo wake ulikuwa kwa wayahudi, ndio sababu iliyonipelekea kuandika mada hii {HATUA ZA MWANZO ZA UKOMBOZI WA WANA WA ISRAELI.}
+
+Ukiachana na ukombozi wa kutoka nchi ya utumwa Misri, wana wa Israeli kwa mujibu wa Biblia walipitia utumwa kwa nchi mbalimbali na Mungu Baba alikuwa akiwatuma watumishi wake mbalimbali ili kuwakomboa kutoka katika utumwa wao. Hivyo ukombozi ninaoueleza hapa ni ukombozi wa miili yao na roho zao, ambapo ukombozi huo haukuwa ukombozi wa kiutawala bali Nia, Fikra na Matendo yao ya kila siku. Hili linajumuisha mfumo wa maisha ya jamii kwa ujumla wake.
+
+Ukombozi kuu ulianza baada ya Israeli kukaa kwa kipindi cha miaka 400+ (Miaka Mia Nne na ziada) bila kutokea nabii ambaye alitoka kwa Mungu Baba. Jambo hili liliifanya Israeli kuwa na umakini mkubwa katika kuwapima wale wanaokuja kwao na kusema au kudai kwambamba wametumwa na Mungu wa Israeli kuwakomboa, kulikuwa na mapito makubwa sana hususani ukizingatia kwamba Israeli walikuwa chini ya utawala wa Wagiriki kisha baadae Warumi. Watawala wote wawili walikuwa na mtindo tofauti wa kiimani na mtindo tofauti wa mahusiano ya kijamii.
+
+Katika kipindi chote watu waliokuwa wakiaminiwa na kufuatwa na watu wa kiyahudi walikuwa ni WAANDISHI (SCRIBERS) na MAFARISAYO (FARICEES)  pamoja na MASADUKAYO (SADUCEES). Hawa wote walikuwa waalimu wa sheria ya Mungu kwa Israeli, na zaidi walikuwa na huduma tofauti tofauti ambazo watu waligawanyika kwazo. Ndipo anapokuja mtu kutoka kwa Mungu aitwaye YOHANA (MMBATIZAJI) amabaye alifundisha na kuwaonya watu juu ya dhambi zao, na wengi miongoni mwa watu pamoja na waalimu wa wayahudi walimwamini na kuifuata huduma yake.
+
+Aliwaonya watu kwa mafundisho akisema "Tubuni, Mkabatizwe, ili mpate msamaha wa Dhambi zenu." Watu wengi walimwendea na wakabatizwa naye, hata wale waliokuwa viongozi na waalimu wa huduma zingine pia walikwenda kwake kutaka mawaidha ya kujua nini haswa huduma yake na ni yeye alikuwa ni nani kati wale waliotabiriwa na manabii huko nyuma. Hata hivyo Yohana aliwajibu kwa kusema ***"Mimi ni sauti ya Mtu aliyaye nyikani, itengenezeni njia ya Bwana na myanyooshe mapito yake."***
+
+Hata watu wengi walimuamini kama nabii kutoka kwa Mungu na wakamuenea akawabatiza huku wakiungama dhambi zao. Kwasababu ya wengi kumuamini wale waliokuwa na huduma za kiimani wakati ule waliiingia shaka na wengine wivu, wakamuendea wakimuuliza "Wewe ndiye Kristo?." Naye akawajibu akisema mimi siye, ila yupo ajaye nyuma yangu yeye ndiye, wakamuuliza mbona wabatiza? Akajibu akisema Mimi nawabatiza ninyi kwa maji ila yeye ajapo atawabatiza kwa Roho Mtakatifu. Hivyo kufikia hapo tunaona kwamba wayahudi walipaswa kufanya mambo kadhaa ya awali kabla ya kuja kwake Masihi ambaye ndiye Kristo Yesu.
+
+***Mambo waliyoyapitia wayahudi yalikua yafuatayo........***
+
+1. Kwanza iliwabidi Wabatizwe kwa ubatizo wa maji (Ubatizo wa Yohana). Kwa ajili ya kutubu dhambi zao wapate kusamehewa. kwa maana nyepesi ni kwamba Ubatizo wa maji ulikuwa kwa ajili ya Toba.
+
+1. Pili baada ya kutubu iliwapasa wayatende matendo yapatanayo na Toba, yaani kuacha mwenendo wao wa kwanza na kufuata mwenendo mpya.
+
+1. kisha Kuiamini Injili ya Yesu Kristo iletayo Uzima wa Milele, yaani Kumwamini YESU KUWA NDIYE MKOMBOZI NA MPATANISHI KATI YA ULIMWENGU NA MUNGU BABA.
+
+**Kwa hatua hizi tatu ilikuwa ndiyo njia ya awali na amabayo ilifuatwa na wayahudi pamoja na wale wayunani wa awali waliyoiamini Injili ya Yesu Kristo, ambapo wote walioamini walibatizwa kwa ajili ya Toba na kisha kumfuata Yesu kama mpatanishi kati yetu na Mungu.**
+
+Kisha baada ya hayo yote kulitokea mafundisho mengi ya namna ambavyo watu walikuwa wakikosea namna njema ya kumwabudu Mungu, na baadae baada ya kifo cha Yesu Kristo na kufufuka kwake palitokea huduma kubwa zaidi ambayo haikuwahi kuwako kabla, **"KUJAZWA ROHO MTAKATIFU,"** Huduma hii ilikuwa ya kwanza kuandikwa na kushuhudiwa na wengi katika nyakati za awali za kuenea kwa Injili, kwa maana udhihirisho wa Roho Mtakatifu ulikuja kupitia kupaa kwake Yesu Kristo, na ilikuwa ni kutimia kwa ahadi yake kwa wanafunzi kwamba atakapokwenda atamuomba Baba yake ambaye pia ni Mungu baba yetu, atuletee msaidizi atakayekaa pamoja nasi katika kipindi chote mpaka pale atakapokuja kwa mara ya pili kuukomboa ulimwengu.
+
+Hivyo njia ya ukombozi inaanza kwa 
+
+1. Kusikia Neno la Kristo Yesu, 
+1. Kutubu dhambi zetu, 
+1. kubatizwa katika Maji kama ishara ya kuoshwa dhambi au kusamehewa, 
+1. Kuamini kwamba Yesu ndiye Kristo na kwamba alikufa kwa ajili ya dhambi zetu na kwamba alifufuka katika wafu kama ishara ya ushindi dhidi ya mauti na kutimia kwa maandiko. 
+1. kisha ilikamilishwa na kitendo cha kujazwa Roho Mtakatifu.
+
+**Kwa pamoja mambo haya niliyoyaorodhesha hapa juu ndiyo yanaanzisha safari ya UKOMBOZI WA MWANADAMU.**
+
+katika maelezo hapo juu, neno Toba halina maana ya maungamo, bali linamaana ya kugeuka na kuacha kile kilicho batili na kutenda kilicho sahihi, ndio maana maandiki yanasema **"Mtende matendo yapatanayo na Toba zenu."** hivyo toba ni kugeuka kuacha njia mbaya na kuifuata njia njema, na pia katika maelezo yasemayo Safari ya ukombozi maana yake ni kwamba Ukombozi sio kazi ya siku moja bali ni mchakato unaoanza punde tu baada ya kuamini. Hivyo safari hiyo ni safari ya maisha ya muumini katika nyakati zote hata pale atakapoirudia ardhi (KIFO).
+
+## HITIMISHO LA UKOMBOZI.
+
+Kuna msemo usemao **"Kila lenye mwanzo basi lina mwisho wake."** Huu ni msemo maarufu sana katika nahau nyingi kwa lugha mbalimbali duniani, ila katika suala la ukombozi wa mwanadamu hauzungumziwi kwa kiwango chenye kuridhisha ili watu wapate kuwa tayari kwa ajili ya saa na nyakati hizo tunazozitarajia ambazo kwa hakika pasipo shaka zitakuja. Yapo mabo kadhaa ambayo yanatoa ushahidi na uhakika ya kwamba mambo hayo pasipo shaka yatakuja, katika makala hii nitayaorodhesha machache ambayo yatatupa mwanga na ushahidi wa uhakika wa Imani yetu.
+
+## Utabiri wa maandiko.
+
+Katika maandiko mbalimbali duniani haswa Biblia yenyewe inaonesha mambo kadhaa ambayo alitabiriwa na manabii wa kale na yamekwisha kutokea katika zama mbalimbali huko nyuma kabla ya kizazi hiki, lakini pia upo ushahidi wa kimazingira ya kwamba mambo hayo yalitokea na watu wanashuhudia kuwa ni kweli.
+
+***Mfano***
+
+Katika historia za dunia yapo mabaki mengi ya mambo ya kale ambayo tunayasoma na kuyashuhudia mabaki ya historia zake katika sehemu mbalimbali duniani. Mabaki ya safina ya Nuhu hukoMilima ya Evarest, Mabaki ya sodoma na Gomora huko Red sea Israel, Mabaki ya Hekalu la suleiman huko Israel, Mabaki ya ufalme wa Babeli huko Iraq, Mabaki ya nyumba na kumbukumbu za utumwa wa Israel huko Misri, Mabaki ya nyumba na sehemu alizopita Yesu wakati wa kuwepo kwake hapa duniani, Sehemu walizopita mitume wa Yesu Kristo wakihubiri Injili, pamoja na mengine mengi ambayo yapo katikahistoria ya maisha yetu hapa duniani.
+
+Katika mazingira kama hayo yanakupa hakika ya kwamba mambo haya yalitokea na yalitendeka katika nyakati hizo, mengine yakiwa mapya kwao na mengine yakiwa kutimia kwa unabii ambao ulitabiriwa kabla ya hayo kutokea. Kwa kusema hayo inamaanisha hata yale yaliyotabiriwa na Mitume pamoja na yale ambayo walifundishwa na Yesu Kristo mwenyewe, ni hakika ya kwamba yatakuja kutokea kwa ukamilifu wake kwa sababu baadhi ya hayo ambayo yalitabiririwa yamekwishatokea na mengine yanatokea katika nyakati zetu za sasa.
+
+## Ujio wa Yesu mara ya kwanza, (KUANZISHA KAZI YA UKOMBOZI)
+
+Wengi wanalijua fundisho moja ambalo limeenea ulimwenguni kote yakwamba, Yesu alikuja kuukomboa ulimwengu, na kwanjia ya kufa na kufufuka kwake basi alishamaliza kazi yote. Fundisho hili linaleta utata kidogo kwa sababu mbalimbali ambazo nitaziorodhesha hapa chini.
+
+**1. Linapingana na Maandiko ya Biblia.** Ukisoma kitabu cha Mathayo mlangowa 24 kuendelea na ukisoma Injili ya Luka pamoja na Injili ya Marko vyote kwa pamoja vimeelezea namna ambavyo Yesu atakapokuja kumalizia kazi aliyoianzisha pale msalabani. Ninaposema kumalizia kazi maana yake ni kwamba alikwisha ianzisha, Yesu alianzisha kazi ya Ukombozi kwa njia ya kifo chake pale msalabani, kazi ambayo hakuihitimisha kwa sababu ilikuwa endelevu. Yesu ni mkombozi wa ulimwengu wote na sio wa watu fulani pekee, hivyo alianzisha kazi ambayo itaendelea kutendeka mpaka ulimwengu wote utambue kazi aliyoianzisha, kisha baada ya ulimwengu kutambua ndipo atakapokuja kuikamilisha.
+
+**2. Linapingana na huduma ya Roho mtakatifu.** Tukisema kwamba Yesu alimaliza kazi yote kwa ujio wake wa mara ya kwanza, basi tutakuwa tunaondoa kazi ya Roho mtakatifu hapa ulimwenguni, na kwamba kutakuwa hakuna haja ya kuendelea kueneza na kulisifu jina lake kwa watu wote kama ambavyo inatendeka sasa, ila kwa kuwa ilianzisha safari basi lazi atakuja kuikamilisha yeye mwenyewe. Lakini zaidi fundisho hili linakiuka ahadi ya Yesu mwenyewe ya kwamba atarudi kwa ajili ya kuhukumu ulimwengu.
+
+## Ujio wa Yesu kwa mara ya pili, (KUKAMILISHA UKOMBOZI).
+
+Katika kitabu cha Ufunuo wa Yohana na kitabu cha Danieli ni dhahiri kwamba kulitolewa unabii mkubwa sana juu ya mambo yale yatarajiwayo kuwako baadae(Mbeleni). Unabii wa vitabu hivi umekwisha kutokea kwa sehemu, na kwa sehemu nyingine bado haujatimia, ambapo ndicho kitu kinachonipa hakika ya kwamba kama sehemu imekwisha kutimia basi hakika sehemu iliyobaki itatimia kwa majira na wakati wa Mungu mwenyewe. Katika kipengele hiki cha ujio wa Yesu wa mara ya pili kutimiza kazi aliyoianzisha nitajikita zaidi katika mapendekezo ya kusoma vitabu hivyo vitatu yaani MTHAYO, DANIEL NA UFUNUO WA TOHANA.
+
+**Ujio wa Yesu mara ya kwanza ulikuwa na lengo gani ?**
+
+Ujio wa Yesu mara ya Kwanza ulikuwa kuleta mapatano kati ya Mtu na Mungu, yaani kuwaandaa watu ili waweze kuishi katika ufalme wa Mungu Baba, yaani wawenze kuishi katika ufalme wa utakatifu kama Mungu alivyo mtakatifu.
+
+**Je, kazi hiyo aliitimiza ?.**
+
+Kazi ya ukombozi wa mwanadamu ilianzia msalabani na nikazi ya maisha yote tungali tupo hai hapa duniani, na kazi hiyo inafanywa kwa msaada wa Roho Mtakatifu ambaye anatenda kazi hata sasa kwa maagizo ya Mungu baba na Yesu Kristo.
+
+**Kwa nini Yesu atarudi mara ya pili ?**
+
+Yesu atarudi mara ya pili ili kuukomboa ulimwengu kutoka katika utawala wa Ibilisi Shetani na kuuweka ulimwengu wote katika Ufalme wa Mungu Baba, na yeye akiwa ndiye Mtoa hukumu kwa wale wakosaji (Waovu). Na huu ndio utakuwa ukamilifu wa ukombozi wa ulimwengu. Yaani Dunia na vyote viijazavyo ndani yake.
+
+***Tufikiri pamoja swali hili kwa mujibu wa Biblia.***
 
 
-## 1. ` Mafundisho ya Yesu.
 
-Yesu alipokuwa akifundisha watu,alikuwa akisema mambo ambayo wengi walishangaa na wengi wao hawakuelewa maana ya maneno yake,kwa maana Yesu alitumia mifano mingi na methali katika kufundisha kwake.mafundisho yake yaliwahukumu wengi mioyoni mwao,wengi wakatubu na kumfuata,wengine wakistaajabia maneno yake yalivyokuwa yamejaa hekima.alifundisha akiwaambia watu habari ya Ufalme wa Mungu.
+**JE, YESU ATARUDI KWA AJILI YA HUKUMU TU AU ATAKUWA NA KAZI NYINGINE KABLA YA HUKUMU ?.......**
 
-## 1. ` Ushuhuda wa Yesu.
+Kwa makala za majibu ya maswali ya Ukombozi wa mwanadamu na Ulimwengu basi endelea kufuatilia kupitia Link hii pamoja na namba zifuatazo **0768 596 017**
 
-Yesu alishuhudiwa kwanza na Yohana mbatizaji,kisha akashuhudiwa na Mbingu kwa njia ya Roho mtakatifu,kisha baadae wanafunzi wake wenyewe ya kwamba ndiye Kristo ambaye kupitie yeye Israeli na ulimwengu utakombolewa kutoka katika dhambi zao.Lakini yesu mwenyewe alisema na watu hao akiwaambia,mimi sishuhudiwi kwa ushuhuda wa mwanadamu bali 
-
-***Baba yangu aliyenituma ndiye anishuhudiaye kupitia hizo kazi nizifanyazo kwenu,ambazo hakuna mtu aliyewahi kuzifanya hapo kabla***.
-
-***Musa aliwaandikia na alinena juu yangu,na maandiko mnayo nayo yananena juu yangu nanyi hamtaki kuja kwangu muupate uzima***
-
-## 1. ` Utakatifu wa Yesu.
-
-Moja ya jambo kubwa na la upekee sana la Yesu Kristo katikati ya watu, ni kwamba Yesu alikuwa mtakatifu kiasi cha watu wote waliomshuhudia haswa walio wabaya wake yaani hao wakuu wa wayaudi, maana hata alipo wauliza ...... 
-
-***Kwa kosa gani mnanishuhudia kuwa ni mkosefu ?*** nao hawakuona kosa la Yesu Kristo. Hiyo ni kuonesha kwamba Yesu aliishi maisha matakatifu kiasi kwamba hata wabaya wake walitafuta tafuta neno dhidi yake wapate kumshitaki nalo au kumshutumu kwalo lakini hawakupata ubaya wa kumshitaki.
-
-***Ni kweli kwamba umetoka kwa Mungu, maana hakuna awezaye kutenda yote uyatendayo kama Mungu hayupo pamoja naye.*** Maneno haya ni akusema kwamba alizitenda kazi zilizokuwa zinadhihirisha utukufu wa Mungu na sio utukufu wake, kitendo hichi ni kusema kwamba Yesu alifunika utukufu wake na kumuinua Mungu atukuke zaidi ili mUNGU NAYE AMUINUE YEYE **(YESU KRISTO)**.
-
-***Mwalimu mwema*** Mafundisho ya Yesu Kristo yalibeba wema wa kimungu ndani yake kiasi kwamba hata wanafunzi na makutano walipokuwa wakiyasikia walistajaabu mara kadhaa wakitafakari hekima ya Mungu pamoja na mamlaka aliyokuwa nayo Yesu Kristo hata mapepo na nguvu zingine kutiishwa kwa mamlaka hiyo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- NJIA YA UKOMBOZI.
-- HITIMISHO LA UKOMBOZI.
-
-
-
-
-_ 
+***MUNGU AKUBARIKI NA KUKUPA UFAHAMU KATIKA KUYAPAMBANUA MAFUNUO YAKE. AMEN***
 
 
