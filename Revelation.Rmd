@@ -1,0 +1,399 @@
+---
+title: "THE SECOND COMING"
+author: "benjamini mpinga"
+date: "2023-02-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+### UPOTOFU WA MAWAZO YETU MAZURI JUU YA MUNGU.
+
+Watu wengi katika kizazi cha kale na hata kizazi cha sasa, tunayo mawazo yetu mazuri tuliyonayo juu ya Mungu, kwa bahati nzuri mawazo hayo hayajatokana na kiburi au ujinga wa kutokupata taarifa, bali yametokana na taarifa isiyo sahihi tuliyoipokea kutoka katika chanzo/vyanzo tunavyoviamini.
+
+Kupitia mawazo hayo tuliyonayo tumekuwa tukifundisha mambo ambayo wakati mwingine yanakwenda kinyume kabisa na maandiko ambayo tunayatumia kuhalalisha mafundisho yetu. Jambo hili tutaliangalia kupitia upotoshaji unaoendelea juu ya injili. Kupitia Biblia, pia tutaangazia mafundisho yaliyopotoshwa na kuwafanya watu wengi wakayaamini na kuuacha ukweli kama maandiko yalivyoandika.
+
+**(False education is dangerous than Ignorance)**
+
+### SIRI ILIYOFUNULIWA.
+
+Kitabu cha ufunuo wa Yohana, kinaweza kikawa moja kati ya vitabu visivyosomwa sana na watu wengu hasa waamini wa Imani ya Yesu Kristo. Jambo hili la kutosoma kitabu hicho halijatokea kwa bahati mbaya, bali ni mkakati ambao Ibilisi ameuratibu kwa mbinu zote, kuzuia au kuwafunga watu fikra ili wasiweze kukifuatilia kwa ukaribu kitabu hicho.
+
+Zipo sababu na njia nyingi alizozitumia Ibilisi kuzuia au kuwafumba watu fikra zao ili wasijishughulishe kabisa au kwa kiasi cha kutosha kukitafakari na kujifunza mambo yaliyoandikwa humo. Katika Makala hii nitaanza na mbinu alizozitumia kuzuia au kuwafumba watu ili wasikizingatie sana kitabu cha Ufunuo, kisha tutamalizia na sababu za kuwafanya watu kukiweka nyuma kitabu hicho.
+
+### Mbinu za Ibilisi kupitia Mabaraza.
+
+Katika Karne ya 16, wakati wa matengenezo ya Kiprotestanti, moja ya maazimio juu ya kanuni ya Biblia, yaliyopitishwa ni pamoja na kushika msimamo wa azimio la Wayahudi na shauri la Hieronimo kuhusu vitabu kadhaa ambavyo vinaitwa **"Deuterokanoni,"** pamoja na kwamba vitabu hivyo vilikuwa vya agano la kale, ila pia waliviweka pembeni baadhi ya vitabu vya agano Jipya, ambavyo zamani kulitokea wasiwasi juu yake, navyo vinachukuliwa kama vitabu vya Deuterokanoni.
+
+Vitabu vya agano jipya vilivyowekwa pembeni ni kama ifuatavyo...
+
+1. Waraka kwa Waebrania
+1. Waraka wa Yakobo
+1. Waraka wa pili wa Petro
+1. Waraka wa pili wa Yohane
+1. Waraka wa tatu wa Yohane
+1. Waraka wa Yuda
+1. Ufunuo wa Yohane
+
+Kisha baada ya kifo cha Martine Luther, Waprotestanti kwa ujumla walikubaliana tena na vitabu vyote vya Agano jipya na kurudisha umoja katika jambo hilo, isipokuwa baadhi ya vitabu vya Agano la kale.
+
+### Mbinu za Ibilisi kupitia ufahamu binafsi.
+
+Sio jambo geni kusikia mtu tena muumini akisema **“Kitabu cha Ufunuo ni kigumu kukitafakari”**, au kusikia mtu akisema **“Ufunuo ni kitabu chenye mafumbo ambayo mtu unaweza kujikuta ukimkufuru Mungu kama hutayaelewa”.** Mbinu hii unaweza kuona ni kana kwamba inamashiko, lakini sio kweli, kwa sababu kama Mungu alimfunulia mjumbe wake Yohanana kumuamuru ayaandike yale maono yote, naye Yohana akaanza kwa kuandika **“Kheri ayasomaye na yeye asikiaye maneno ya unabii huu, na kuyashika yaliyoandikwa humo kwa maana wakati u karibu”**. Basi ni wazi kwamba kusudi la Mungu lilikuwa sisi tuyapate na kuyashika.
+
+Kwa kusema kwamba kitabu hicho kina mafumbo mengi na kwamba kinaweza kukuchanganya, ni mbinu ya kimkakati ya Ibilisi kwa sababu anajua katika kitabu hicho ndipo ilipo siri ya nguvu na hila zake, na pia ipo siri ya hatma yake, hivyo Ibilisi hawezi kuruhusu wala kukubali mtu aweze kuzifahamu siri hizo kirahisi, kwa sababu ndizo zinazomsaidia kuendelea kupata wafuasi katika dunia hii.
+
+Ibilisi ametumia watu mbalimbali haswa wenye nyadhifa kubwa ili kuhakikisha kwamba kusudi lake linatimia, na ataendelea kuwatumia watu hao hata pale yote yatakapotimia. Ukweli ni kwamba hakuna mtu katika Maisha ya mwili atendaye neno lolote isipokuwa kuna nguvu inayotenda kazi ndani yake. Na nguvu hiyo ni aidha ya Ibilisi au ya Mungu. Kati ya hizi falme mbili ni lazima mwanadamu awajibike kwa mojawapo.
+
+Swali la msingi ni 
+
+1. **je, tunayoyasema au kuyafundisha yanamfanya mtu atende mapenzi ya Mungu kama ambavyo ilikusudiwa na Yesu Kristo?,** pia tunapaswa kujiuliza 
+1. **je, tunajua hatma ya Maisha yetu pasipo kupata taarifa zinazohusu wakati ujao?,** 
+
+Hivyo kama ukitaka kujua hatma ya Maisha ya ulimwenguni basi kasome kitabu hicho, kwa maana hata hatma ya Ibilisi ipo humo.
+
+Huwezi kujutia wala kuchanganyikiwa kama Roho wa Mungu yupo Pamoja nawe katika kuyatafakari na kuyadadisi mambo ya ufalme wa Mungu, na ufalme wa Giza, kwa sababu Mungu atakuwa nawe katika nyakati zote za kumtafakari kwako. Usitishwe wala usihadaike kwa hila za Muovu Ibilisi kwamba huwezi kuelewa yaliyoandikwa humo, kwa sababu Mungu ameruhusu tuyajue hayo kusudi tujiandae na kujivika utayari kuyakabili yote ambayo hayana budi kutokea kwetu. sisi Pamoja na ndugu zetu watakaokuwa Pamoja nasi katika Imani ya Yesu Kristo.
+
+> Maombi, ***(Mungu atulinde na kutuwezesha kuyatambua na kuyafahamu Yote yaliyo siri kwa uweza wake, na katika kuyafafanua na kuyachambua yaliyomo katika kitabu hiki, atupe Roho wake atuwezeshe kukimaliza kama kilivyokusudiwa na Mungu wakati wa kukileta kwetu kupitia Mtumwa wake Yohana, Amen.)***
+
+### Mateso ya shahidi ………..
+
+Mwanzo kabisa wa kitabu cha Ufunuo tunaanza kuona dhiki na mateso ya kuwa shahidi wa Yesu Kristo. Tunaiona dhiki hiyo na mateso hayo kupitia ushuhuda wa Yohana mwenyewe aliyepewa Ufunuo na Mungu. Kitabu kinaanza kwa kuandia...
+
+***“Mimi Yohana, ndugu yenu na mwenye kushiriki Pamoja nanyi katika mateso ya ufalme na Subira ya Yesu Kristo, nalikuwa katika kisiwa kiitwacho Patmo, kwa ajili ya neno la Mungu, na ushuhuda wa Yesu.”***
+
+Kupitia maneno hayo ya Yohana alikuwa analipa gharama kubwa kwa ajuli ya kuwa Shahidi wa Yesu Kristo, gharama ambayo hatuna budi nasi pia kuilipa siku kwa siku katika kumshuhudia Yesu Kristo. gharama hiyo inalipwa kwa kuwa waaminifu kwa Mungu. Sio kwa sababu ya ubaya au dhambi zetu bali kwa ajili ya wangine wapate kuokolewa na kuwa mashahidi wa Yesu Kristo. Hivyo kuwa shahidi mwaminifu wa Yesu Kristo ni lazima ujue na ujiandae kwa mambo kadhaa kama...
+
+**Lawama, Dhihaka, Matusi, Kejeli, Masimango, Kudharauliwa, Kutengwa, Kuteseka kwa namna mbalimbali kwa ajili ya Yesu Kristo. **Na hayo yote ndiyo tuyasomayo katika kitabu cha Ufunuo wa Yohana, na ndiyo tupaswayo kuyajua na kuyashika kwa sababu hayana budi kutokea.
+
+Katika mateso hayo dhiki itakuwa kubwa siku kwa siku kwenye Maisha ya shahidi wa Yesu Kristo, na hakuna ahadi ya mateso hayo kumalizika ingali tupo duniani, bali ahadi ya mateso hayo kumalizika ni pale tutakapokufa tungali mashahidi waaminifu. Hivyo suala sio kumwamini Yesu na kuzaliwa mara ya Pili bali ni kuishika Imani na kuilinda hata Kufa. Hapo ndipo Faraja yetu ilipo, yaani mwisho wa safari yetu na sio mwanzo wa safari.
+
+## Amani ya shahidi …………
+
+Ijapokuwa ni kweli kwamba tutapitia dhiki kuu, lakini tukiwa katika Yesu Kristo tutapita tukiwa na amani, na hiyo ndiyo itakayokuwa tofauti kati ya wale walio mashahidi wa kweli na wale ambao Imani yao wameweka kati vitu vya mwilini, Yohana akiwa katika dhiki kuu kwa ajili ya Neno la Mungu na ushuhuda wa Yesu Kristo, anaanza kuandika kwa kutangaziwa na kuwatakia “Amani.” maana ndiyo faraja pekee katika dhiki yake.
+
+***“Yohana kwa yale makanisa saba yaliyoko Asia, Neema na iwe kwenu na Amani, zitokazo kwake yeye aliyeko, aliyekuwako na atakayekuja, na zitokazo kwa Roho saba walioko mbele ya kiti chake cha enzi, na kutufanya kuwa ufalme, na makuhani kwa Mungu, naye ni Baba yake, utukufu na ukuu una yeye hata milele na milele Amina”.***
+
+Hivyo ndugu msomaji, ili tuweze kumudu mateso yaliyoko mbele yetu hatuna budi kupewa amani itokayo kwake yeye aliyeko, aliyekuwako na atakayekuja. kwa maana bila amani itokayo kwake basi hatuwezi kustahimili hayo yapaswayo kuja. Imetupasa kumuomba Mungu atuwezeshe kudumu katika Amani itokayo kwake ili tuyastahimili yale yajayo kwa ajili ya kulisimamia Agano la Mungu na ushuhuda wa Yesu Kristo.
+
+**(Mateso na dhiki ya kuwa shahidi wa Yesu Kristo hayawezekani kuyastahimili pasipo kupewa Amani itokayo kwa Mungu mwenyezi, na msaada wa Roho takatifu wa Yesu Kristo, Basi imetupasa kudumu katika kweli na Maisha ya utakatifu ili Mungu asituache peke yetu wakati wa dhiki kuu, na pia asituache tukaangamia kwa kushindwa kuilinda Imani tuliyoipokea ya Yesu Kristo Bwana wetu. Amen.)**
+
+### SIRI YA IBILISI ILIYOFUNULIWA
+
+Katika kitabu cha Ufunuo wa Yohana, ndipo kulipofunuliwa siri na mbinu za Ibilisi anazozitumia kuwalaghai wanadamu na kuwafanya wengu kuwa wafuasi wake, katika kitabu hicho ndipo tunaona ni namna gani Ibilisi alikuwa akifanya kazi zake na alitumia watu kwa namna gani kukamilisha makusudi yake ya kuwapoteza wanadamu, na pia ni kwa namna gani atatengeneza mfumo wa Kumpinga Masihi Mwana wa Mungu aliye juu na Bwana wetu Yesu Kristo, ili watu wasiweze kupata sababu wala fursa ya Kumuamini **(ROHO YA MPINGA KRISTO)**.
+
+Sio jambo rahisi Ibilisi kuruhusu watu wazijue mbinu zake, wala hawezi kuliruhusu kirahisi kwa maana ni pale tu unapogundua silaha za adui na uwezo alionao ndipo unaweza kumshinda, hivyo Ibilisi hawezi kuruhusu watu wajue silaha wala uweza wake ili wasije wakatumia huo kumshinda. Hivyo Ibilisi ataendelea kufanya kila hila, na atainua watu wa kila namna wenye mamlaka na ushawishi mkubwa katika jamii, ili waendeleze mipango na kutimiza makusudi yake.
+
+Ibilisi atawapa watu hao uwezo mkubwa sana na kuwapa umaarufu na ushawishi usioweza kupingwa na mtu yeyote, isipokuwawale waliyowekwa chapa ya Yesu Kristo. kwa sababu pasipo uweza wa Mungu ndani yako hakuna awezaye kushindana na kushinda hila na mbinu za ibilisi, kwa sababu anatumia uweza na nguvu zote za Mamlaka na Ushawishi wa akili za kibinadamu kutawala fikra za watu.
+
+1. Je, ni nani awezaye kushindana na Mamlaka (Serikali)?.
+1. Je, ni nani awezaye kuvumilia kutengwa na Imani yake (Dini)?. 
+1. Je, ni nani awezaye kunena kinyume na jamii yote inayomzunguka (Familia na wanajamii)?.
+
+Hayo ndiyo maswali unayopaswa kuyajibu kusudi ujue kama unao uwezo wa kushindana na Ibilisi pasipo uweza na msaada wa Mungu. kwa sababu vyote nilivyoorodhesha hapo juu, Ibilisi ameweka watu wake na hao ndio wanao ongoza hiyo mifumo, amewapa wafuasi wake Mamlaka za maamuzi, amewapa Wafuasi wake ushawishi mkubwa katika jamii, amewapa wafuasi wake nguvu za kusimamisha ufalme ambao utafanya yaliyo mapenzi yake ya kuwatenga wanadamu na Mungu na Zaidi kuwanyima wanadamu fursa ya kumwabudu Mungu wa kweli.
+
+Iblisi aliyafanya hayo tangu kale, kuwapa wafuasi wake nguvu katika jamii ili aweze kuwapoteza wanadamu kwa hila, na katika kipindi chote siri na mbinu zake hazikuwekwa wazi ndio maana bado watu walianguka katika mitego yake, ila kwa kuwa Yupo mmoja aliyeshinda ili apate kushinda tena kupitia wewe na mimi, naye ndiye Yesu Kristo Mwana wa Mungu wa Pekee, yeye ametufunulia siri na hila za Ibilisi na namna ambavyo atatenda kwa wanadamu katika nyakati tofauti tofauti hata pale yatakapo timia yale yapaswayo kutimia.
+
+***(Siri imefunuliwa ili tuzitambue dalili na ishara na hila za Ibilisi na tuzipinge na kuzikemea, Amen.)***
+
+### UNABII WA KURUDI KWA YESU KRISTO.
+
+Katika kuanza kwa maneno ya unabii wa kitabu cha Ufunuo, tunaona jambo kuu la pili baada ya mateso ya mashahidi wa Imani ya Yesu tunaona unabii wa kurudi kwa Yesu Kristo. **“Tazama yuaja na mawingu, na kila jicho litamwona, na hao waliomchoma, na kabila zote za dunia wataomboleza kwa ajili yake”.**
+
+Katika nyakati zote za dhiki na mateso na taabu ya wateule wa Mungu, mwisho wake Yesu Kristo atarudi na hapo ndipo patakuwa na faraja ya waliovumilia na kuilinda Imani katika kipindi cha mateso na dhiki kuu, Hivyo kurudi kwa Yesu sio nadharia ni jambo halisi tulitarajialo na kulisubiri kwa muda na wakati uliopangwa.
+
+1. **Je, kurudi kwa Yesu ni nini?.**
+
+Katika swali hili ndipo tunapata Siri ya pili ambayo Ibilisi hapendi kuruhusu watu kuijua na kuiamini, ametumia mbinu kubwa sana kuificha siri hiyo licha ya kwamba bado Mungu ameendelea kuwafunulia watu wake juu ya ukweli huo, lakini Ibilisi naye ameinua elimu na mahubiri ya kuuficha na kuupotosha ukweli huu. siri hii ambayo ina nguvu kubwa ya kurudi kwa Yesu, Ibilisi ametumuia mambo makuu matatu ili kuipotosha.
+
+1. Fundisho la uongo juu ya kurudi kwa Yesu.
+1. Unabii wa uongo juu ya mambo yatakayotokea wakati wa kurudi kwa Yesu.
+1. Miujiza ya mambo ya mwilini kuhalalisha uovu wa Rohoni.
+
+Fundisho kubwa lililopo katika vichwa vya watu kwa nyakati za sasa, ni kwamba Yesu atakaporudi, anakuja kulinyakua Kanisa lake, na wale watakaokuwa wateule watanyakuliwa na kumlaki mawinguni. 
+
+Andiko hili ni kweli kwamba limeandikwa, lakini waalimu wengi wanakosea kulitafsiri, na endapo tukilishika kama linavyofundishwa, basi Ufunuo wa Yohana aliopewa na Yesu Kristo utakuwa wa uongo. kwa sababu katika kitabu hiki tunapewa kila njia na namna ambayo itafanyika kabla ya Yesu kuimaliza kazi yake yote ya kuukomboa ulimwengu.
+
+Maswali tupaswayo kujiuliza ili tuweze kugundua hila aliyoipenyeza Ibilisi katika fundisho ni.
+
+1. Kama Yesu atarudi kunyakua wateule wake na watamlaki mawinguni,Je,ni kwa nini  imeandikwa kwamba Yesu atakaporudi,atatawala Pamoja na watakatifu kwa miaka elfu moja?
+
+1. Je, tunadhani ni kwanini imeandikwa kwamba, shetani atafungwa kwa miaka elfu moja, kisha atafunguliwa tena ili apate kuwadanganya wanadamu wamuasi Mungu.?
+
+1. Je, tunadhani ni kwanini imeandikwa kwamba, upo ufufuo kwa kwanza na wa pili?, na pia ipo mauti ya kwanza na mauti ya pili?.
+
+1. Je, tunadhani kwanini imeandikwa kwamba, baada ya Yesu kutawala miaka elfu moja Pamoja na watakatifu, wakati huo shetani atakuwa amefungwa, wala asiweze kumdanganya hata mtu mmoja, kisha baada ya miaka hiyo, ndipo hao waliofufuliwa katika ufufuo wa kwanza na wale watakaofufuliwa katika ufufuo wa pili,watasimama kwenye hukumu.?
+
+1. Je, kama angekuwa anarudi kulinyakua kanisa, kwanini afanye vita na wapotoshaji kama ilivyoandikwa kwamba, **Yesu atafanya vita na kuwashinda yule nabii wa uongo Pamoja na yule mnyama na kuwatupa motoni? na wale waliosalia wakauwawa kwa upanga utokao katika kinywa chake.?**
+
+1. Imeandikwa kwamba, katika viti wakaketi juu yake hao wasiomsujudia Yule mnyama, wala kupigwa chapa yake. Je, kama Yesu atarudi kulinyakua kanisa vile viti vya enzi wanakalia akina nani.? kwa ajili ya kutawala nini.? Je, kuna tofauti gani kati ya kiti cha enzi cha Mungu na viti vya enzi vilivyoandikwa katika kitabu cha ufunuo?.
+
+1. Imeandikwa kwamba, Mbingu mpya na nchi mpya vitakuja mwisho, baada ya Yesu kutawala Pamoja na watakatifu kwa miaka elfu moja, kama ni kweli Yesu atarudi kulinyakua kanisha anakwenda kutawala nao katika dunia ipi.? kwa sababu imeandikwa kwamba Yesu atatawala Pamoja na watakatifu katika dunia hii hii tuliyopo.
+
+Kwa maswali hayo utagundua kuna mtego mmbaya sana na ulioratibiwa vyema sana kupitia mafundisho ya kiimani, na kupitia mafundisho yaliyopenyezwa na Ibilisi kwa watu aliowapa nguvu ya kuaminiwa. ili kusudi walete maarifa yasiyo ya kweli kupitia Imani (Dini). Jambo hilo sio la bahati mbaya, bali linapewa uwezo na Roho yule wa uovu na linaingia na kukaa mioyoni mwa watu kusudi kwamba wasipate shabaha ya kuyaishi Maisha yapasayo, wapate kushinda wakati wa ile dhiki kuu.
+
+Nguvu ya Ukristo haipo kwa sababu ya kupewa msamaha na kuzaliwa mara ya pili kwa Neema ya Yesu Kristo pekee, bali nguvu ipo katika kumaliza kwa kuilinda Imani ya Ushahidi wa Yesu Kristo kwa neema. Katika kuyakabili na kuyavumilia mateso tunayoyapata na watakayoyapata wale watakaobeba dhamana ya Ushahidi baada ya sisi, ni lazima Imani yetu iwe imetokana na kweli ya Yesu Kristo, lakini Zaidi ni lazima tuwe wa uzao wa Mungu baba Kupitia neema ya Yesu.
+
+Fundisho juu ya kurudi kwa Yesu, linabeba siri kuu mbili **KUSHINDA NA KUSHINDWA**, nani atakayeshinda na nani atashindwa ni siri ambazo hazikuwahi kufunuliwa hapo awali wakati wa mababu zetu. Lakini hata baada ya kufunuliwa kwake bado Ibilisi alijua nguvu ya Ufunuo huo ndipo akaanza mikakati ya kupotosha fundisho la Ufunuo wa Yohana.
+
+Baadhi wakiwa hawapendi kukisoma kitabu chenyewe, wengine wakiwa hawawezi hata kusikiliza mafundisho ya kitafu hicho, ila kundi lenye hatari Zaidi ni lile linalosoma na kusikiliza pasipo kuongozwa na Roho Takatifu wa Mungu, na kuishia kutoa tafsiri za matukio wanayoyaona yanashabihiana na Unabii wa kitabu cha Ufunuo.
+
+***(Siri ya kushindwa kwa Ibilisi na Kushinda kwa Yesu Kristo ilifunuliwa ili tuwe katika tumaini linaloishi, tusiwe waoga wala waenendao kwa mashaka, bali wenye kweli na hakika ya mambo yajayo, hata tujapokufa tufe katika tumaini la kweli la USHINDI WA YESU KRISTO. Maarifa ya kuujua mwisho wa jambo yatakupa sababu ya kuishi vyema.)***
+
+### NAFASI YA KANISA.
+
+Katika muendelezo wa kukitafakari kitabu cha Ufunuo wa Yohana, tunakutana na jambo kuu la tatu baada ya mateso, unabii wa kurudi kwa Yesu, ambalo ni nafasi ya kanisa katika nafasi ya ukombozi wa mwanadamu. Katika kutafakari na kutolea ufafanuzi yaliyoandikwa katika kitabu cha Ufunuo, tunaona dhari kuna mchango mkubwa sana wa Kanisa kama ushirika katika safari ya wokovu hapa duniani.
+
+Ushirika katika Roho ni jambo la Rohoni, lakini ushirika katika tabia za Roho wa Mungu ni jambo la mwilini. Wengi tunachanganya kati ya ushirika wa Roho na ushirika wa tabia za Roho. Hili linatokana na kupokea mafundisho bila kuyatafakari kwa kina. Kwahiyo tumejikuta mara nyingi tukienenda isivyopasa kwa sababu ya kutokupata tafsiri sahihi ya Roho.
+
+### Ushirika wa Roho; 
+
+Ni hali ya Mtu kuungamanishwa na Mungu kwa njia ya kuzaliwa mara ya pili, yaani tunashiriki Roho ya Kiungu, tunafanana na Mungu katika Roho, Tunashiriki siri za Mungu, Tunafanya kwa niaba ya Mungu, Tunanena kwa niaba ya Mungu na Tunaonya/Kukemea kwa niaba ya Mungu kwa sababu tumekuwa Roho moja naye, kwa kutufanya uzao wake kupitia Yesu Kristo.
+
+### Ushirika wa tabia za Roho; 
+
+Ni hali ya sisi wanadamu tuliomwamini na kuzaliwa mara ya pili kwa Imani moja ya Yesu Kristo, kuja Pamoja na kutengeneza kundi moja kwa ajili ya kupeana na Faraja katika Mateso ya Ushahidi wa Yesu Kristo. Kutegemezana katika vipawa vya Roho Takatifu wa Mungu.
+
+- Mtume kwa ajili ya kuasisi kazi ya Yesu mioyoni mwa watu
+- Nabii kwa ajuli ya kuyanena maagizo ya Mungu kwa watu 
+- Mwalimu kwa ajili ya kuyatafsiri maneno ya Mungu na kuwapa elimu ya siri za ufalme wa Mungu
+- Mchungaji kwa ajii ya kuwaunganisha ndugu katika familia kwa upendo wa Yesu Kristo.
+- Mwinjilisti kwa ajili ya ushuhuda wa kazi ya Yesu Kristo.
+
+Hizo nilizoziorodhesha hapo juu ni karama za Roho Takatifu wa Mungu, ambaye anatengeneza tabia miongoni mwa watu na kuzitumia katika kuujenga umoja wa Roho. Ushirika huo unakuwa na Imani moja, Ubatizo mmoja, Kundi moja, Roho mmoja na Mungu mmoja. Na Mungu hutumia umoja huo kuponya mataifa, na wala hakuna yeyote afanyaye kwa kutaka kwake bali kwa muongozo wa Roho Mtakatifu. **Umoja huo ndio uitwao KANISA.**
+
+Hivyo kanisa ninalolizungumzia hapa ni lile la Ushirika wa tabia za Roro, ambalo tunaona katika Kitabu cha Ufunuo linatokea katika nafasi ya tatu, kusudi kukamilisha mpango wa Mungu, hakuna budi kukawepo na kundi ambalo watatiana moyo, Watakumbushana na kupeana maagizo ikiwemo kula amini kati yao, ya kuenenda katika njia ya Kweli ya Yesu Kristo hata kama mateso na dhiki itawafanya wafe.
+
+Kundi hili ni Muhimu kwa sababu katika nyakati za dhiki kuu, hapatakuwepo mtu awezaye kuyapita kirahisi mambo magumu yenye kiasi cha kutoa Roho yake bila kuhitaji Faraja kutoka kwa mwenzake ambaye wapo katika safari moja ya Tumaini linaloishi la Yesu Kristo. Hivyo kanisa lipo katika nafasi kubwa ya kuwatunza na kuendelea kutetea mapenzi ya Mungu dhidi ya wale wanaomtumikia Ibilisi kwa kuwataabishe watu kusudi wayaache yale yampendezayo Mungu.
+
+***(Kanisa kama ushrika linabeba Tumaini la wateule katika nyakati za Dhiki kuu, na mateso ya mashahidi wa Imani ya Yesu Kristo, Kanisa ndilo ghala la kukusanyia watakatifu/wateule wa Mungu.)***
+
+### UPOTOFU JUU YA DHANA ILIYOENEA YA MAKANISA SABA YA KWENYE UFUNUO.
+
+Kwasababu tumekwishakuona katika jambo la tatu la ujumbe kwa Kanisa lililokuwa Asia wakati wa Mtume Yohana, aliyeandika kitabu cha Ufunuo, ni vyema sasa tukaanza  kutizama namna ambavyo watu wengi wamekuwa wakigawanyika katika fundisho la Habari ya Makanisa saba yaliyoandikwa katika kitabu cha Ufunuo, ambapo tutaona hila nyingine aliyoipenyeza Ibilisi kupitia mafundisho hayo kusudi tu watu wasiweze kuzitambua nyakati na ishara zilizofunuliwa kwetu.
+
+### Kuamini kwamba Makanisa saba ni vipindi saba ambavyo makanisa yatapitia kabla ya kurudi kwa Yesu.
+
+Fundisho la kwanza amabalo limeenea sana ni kwamba, unabii ulioandikwa kuhusu makanisa saba katika Ufunuo, kwamba hayakukusudiwa makanisa hayo, bali ilikuwa ni unabii kuonesha vipindi ambavyo kanisa litapitia hadi pale Yesu atakaporudi. Fundisho hili linatokana na dhana kwamba, Makanisa yote yaliyoandikwa katika kitabu hicho, yaliandikwa yakioneshwa katika hali tofauti tofauti hivyo jinsi Yesu alivyoyaonya na kuyakumbusha wajibu na kusudi lao, Ndipo wengi huyahusisha makanisa yale kana kwamba ni vipindi saba vya kanisa ambavyo lazima kanisa lipitie kabla ya kurudi kwa Yesu.
+
+***Jambo hili sio kweli, ni hila tu za Ibilisi kuendelea kuwapotosha wanadamu kwa kutumia mafundisho ya uongo. Nasema haya kwa sababu Makanisa hayo yote yaliyoandikwa katika kitabu cha Ufunuo, yalikuwako na yalikuwa katika nyaka za majaribu wakati Nyaraka zile za Ufunuo zinatumwa kwao.***
+
+### Kuamini kwamba ni hatua saba mtu anazopitia baada ya kuokolewa kutoka dhambini.
+
+Fundisho la pili ni kwamba, inaaminiwa na baadhi ya watu kuwa yale yaliyoandikwa kuhusu makanisa saba katika ufunuo, ni hali/vipindi tofauti tofauti katika Roho ambavyo mtu anapitia baada ya kumuamini Yesu Kristo. Na kwamba hatua hizo, mtu atazipitia hadi pale atakapokutwa na mauti ya mwili, ni mapito ya Kiroho na hayana uhalisia wa kimwili/Maisha halisi.
+
+***Fundisho hili ni mwendelezo wa ulaghai wa Ibilisi kwa wanadamu, kwa sababu hakuna uhusiano wa moja kwa moja unaoweza kuchanganya maisha ya mwilini na yale ya Rohoni, sasa inawezekanaje tuchukue maonyo ya mwilini kisha tuyafanye kuwa mambo ya Rohoni?.***
+
+### Kuamini kwamba Unabii juu ya makanisa yale ulikwisha kutimia wakati wa Milenium.
+
+Lipo fundisho linaloamini kwamba Unabii wa makanisa yale haukulenga makanisa yaliyoandikwa katika Ufunuo, bali ilikuwa ni nyakati za kanisa zijazo ila  kwamba ulikwisha kutimia wakati wa millennium ya kwanza. Fundisho hili linahusisha kumbukumbu mbalimbali zikiwemo Kupanda na kuanguka kwa ufalme wa Kirumi, na kupungua kwa nguvu ya ushawishi wa warumi katika ulimwengu. Wakioanisha nyakati hizo na yaliyoandikwa katika kitabu cha Ufunuo kwamba ndio kutimia kwake. 
+
+Katika historia tunasoma kwamba, Watu katika jamii za magharibi na mashariki ya mbali, walijiandaa kwa Kurudi kwa Yesu katika milenium ya kwanza, Lakini wengine wakaenda mbali Zaidi na kuukubali na kupitisha Ukristo kuwa ndio dini za nchi zao. (Christian states) kama yalivyo mataifa mengine **(Islamic states)**. Haya yote yalitokana na nguvu ya fundisho hilo, hivyo watu walijiandaa kumpokea masihi Mawinguni,
+
+Kitendo cha matarajio yao kutokutimia, kulivurugasana watu matumaini yao, na kusababisha mapishano juu ya fundisho la unabii wa kitabu cha Ufunuo. Jambo ambalo athari zake tunaziona hadi leo hii katika jamii za waamini wa Biblia. Kwa ujumla ni kwamba Fundisho juu ya Kitabu cha ufunuo wa Yohana lilianza kupata mpishano baada ya Milenium ya kwanza.
+
+Lakini baada ya hayo waliyoyatarajia kutokutimia basi hata nguvu ya fundisho lililokuwepo ilipungua, na pakatokea fundisho jingine ambalo ndilo lisemalo, ni vipindi mtu anavyovipitia katika Roho baada ya kumuamini Yesu Kristo, na wengine kusema ni vipindi vya kanisa hadi pale Yesu atakaporudi.
+
+***(Fundisho hili pia linakosa uhalali kwa sababu, kama lingekua kweli basi leo tungekuwa katika hatua nyingine kabisa ya nguvu ya Mpinga Kristo. Na kwamba tungeona tabia moja tu ya kanisa kati ya zile tabia saba zilizoandikwa katika kitabu, ila kwa kuwa zipo tabia nyingi na tofauti, basi tunaridhika kwamba fundisho hili pia linakosa sifa ya kuaminiwa.)***
+
+### KUTIMIA KWA UNABII KATIKA ULIMWENGU.
+
+Tazama patatokea ufalme/utawala wenye nguvu katika dunia, nao huo utawala utaleta amani katika dunia, baada ya migogoro na malumbano ya muda mrefu, hasa mashariki ya kati, hivyo mataifa yataridhiana na kuweka agano la kukaa Pamoja wakishirikiana na kufanya maamuzi ya Pamoja kuhusu amani na ustawi wa jamii. Kutakuwa na Mamlaka moja yenye nguvu katika dunia yote, na kutakuwa na nguvu ya taasisi kuliko nguvu ya mtu binafsi,  kutakuwa na nguvu katika Umoja wa Mataifa.
+
+Umoja huo wa mataifa utapitisha sheria na taratibu ambazo zitapaswa kufuatwa na mataifa yote, **UNIVERSAL DECLARATION ORDER**, na amri hiyo itatekelezwa duniani pote, Amri hiyo itabeba ahadi nyingi kwa watu wote, kwani itakuwa na mazuio mbalimbali ambayo yatawapendeza watu machoni pao, kwa muda wa miaka mitatu amri hiyo italeta nafuu na masuluhisho ya matatizo ya watu, na watu wote watatukuza na kuupenda utawala huo wa Umoja wa Mataifa na kuyafuata yote yatakayoagizwa na Umoja huo.
+
+Katika nyakati hizo hapatakuwa na nguvu kwa kuwa peke yako, bali kwa kuwa katika ushirika/umoja Fulani, hivyo hata katika Dini zilizopo nyakati za sasa hazitakuwa na ushawishi kwa kuendelea kuwa zenyewe, bali hapatakuwa na budi kuwa katika umoja wa Imani, hivyo vitawekwa vigezo vya Imani za dini kukubaliana ili kufanya ushirika.
+
+**Baadhi ya vigezo vitakavyotumika kutengeneza Ushirikiano wa Kidini.**
+
+1. Imani ya kuwa Mungu ni Mmoja
+1. Imani ya kuwaamini Manabii waliotangulia
+1. Imani ya kuamini Mungu asiyeonekana
+1. Imani ya Yesu kurudi tena kabla ya kiama
+
+Vigezo hivyo vitafanya watu waungane na kutengeneza Jumuia moja ya Kiimani, ambao utakuwa Mwamvuli wa Imani zote za dini. Na Jumuia hiyo ndiyo itakayokuwa na nguvu  ya maamuzi juu ya masuala yote yahusuyo Imani yao. **(THE WORLD RELIGION ASSOCIATION)**. Hili ndilo litakalokuwa shirika lenye nguvu na litakalofanya kazi kwa ukaribu mkubwa sana na lile shirikisho la **UNIVRSAL DECLARATION ORDER**, Mashirika hayo yatakuwa na maamuzi juu ya watu na Maisha yao, ndipo yatakapofanya maamuzi juu ya watu na mataifa kwa kipindi cha kwanza cha miaka mitatu.
+
+Hao wenye nguvu wawili ndio wale wenye mamlaka juu ya watu na mataifa, mmoja kwa upande wa mamlaka ya Serikali **(Mnyama),** na mwingine nguvu ya Imani ya  dini **(Nabii wa Uongo),** huyo mwenye nguvu ya Imani atakuwa akiwaelekeza wafuasi wa Imani mbalimbali, juu ya kutii mamlaka inayotawala, na kuipa ushirikiano. ataipa sifa ya kwamba imekubaliwa na MUNGU kutawala. Kisha mamlaka hiyo ya serikali itatawala kwa kutenda mambo mema kwa watu kwa miaka hiyo mitatu na nusu kama ilivyoandikwa, kisha ikishapata nguvu kubwa ndipo itapitisha sheria zenye makufuru mbele za Mungu. Kwa wakati huo wengi wataunga mkono yote yatakayowekwa kama utaratibu na Mamlaka hiyo. Kwa sababu watakuwa wameweka Imani yao kwenye mamlaka hiyo.
+
+Ndipo katika nyakati hizo pataibuka/kutainuka wacha Mungu wa kweli, nao watapingana na yale yanayohalalishwa na yule nabii wa uongo, ila watapingwa na wengi kwa maana wengi watakuwa wafuasi wa Dini hiyo na wengi katika wenye mamlaka ya serikali watakuwa wafuasi wa dini hiyo, hivyo watawakarahisha na kuwanyanyasa wale wa kundi dogo wanaopingana na maneno ya yule mkuu wao wa Imani, zitatungwa sheria za kuwakwaza, na kuwatia hatiani kwa yale watakayokuwa wakiyahubiri kinyume na ile dini kuu itakayokuwa na huyo nabii wa uongo. Haya yote hayanabudi kutokea ili maandiko ya unabii yatimie.
+
+Patakuwa na dhiki kuu wakati huo, kwani hata kukusanyika ili kuabudu itakuwa ni jinai kwa wale walio kinyume na yule nabii wa uongo, wateule watashitakiwa na kufungwa magerezani, watafukuzwa katika makutano yao, watauwawa kwa hila na wengine kutengwa na jamii zao kwa ajili ya kuisimamia kweli ya Yesu Kristo. Nabii yule wa uongo atawaambia hao wafuasi wanaomfuata, Wamtii na kumpa ushirikiano yule kiongozi wa serikali kuu. Nao watamsikiliza kwa sababu ni wakati ulioamuliwa na Mungu.
+
+Serikali hiyo itatengeneza mfumo mmoja wa kuwaratibu wanadamu kwa ajili ya huduma za kijamii, na kuwahakikishia usalama wao kupitia mfumo huo. Mfumo huo utaweka alama ya utambulisho kwa kila mwanadamu, tangu mdogo hadi mkubwa, kwa ajili ya kuratibu mambo yote katika jamii, alama hiyo ndiyo alama ile ambayo mtu hatanunua wala kuuza asipokuwa na alama/chapa hiyo katika paji la uso au mkononi mwake.
+
+Zitakuwa ni nyakati za taabu na dhiki kwa wale watakaopinga au kukataa chapa hiyo, kwa sababu hawatakuwa na fungu kati ya hizo huduma za kijamii, Mfano mwepesi, Leo hii tunaweza kuona ilivyo taabu kwa mtu kupata mawasiliano pasipokuwa na kadi iliyosajiliwa kwa alama za vidole, basi zitakuja nyakati haitawezekana mtu kupata huduma ya kijamii bila kuwa na chapa hiyo iliyosajiliwa taarifa zake. badala ya wanadamu kutumia kadi basi watawekewa mionzi **(Cheep)** ndani ya miili yao kwa ajili ya kuweka kumbukumbu zao zote tangu kuzaliwa hata kufa kwao.
+
+Hiyo cheep ndiyo chapa yenyewe, na itatumika kuwatambua watu na kuwapa huduma, ikiwa ni matibabu, manunuzi ya mahitaji, kuhifadhi fedha na kwa ajili ya ulinzi binafsi, ili uweze kupewa msaada hakuna budi kutumia utambulisho wako huo kupata huduma katika mamlaka husika. Wanadamu wataungana na kusikilizana kwa mambo mengi, licha ya tofauti zao za rangi na mipaka ya jiografia. wale waliokubali kuyashika maneno ya nabii yule wa uongo na kuyafuata watakuwa wamoja, kwa wale wanaoyapinga na kutokuyafuata pia wao nao wataungana ili kuwa na nguvu ya Pamoja. **TOGETHER AND WIN OR ALONE AND PERISH.**
+
+Ndipo Yesu Kristo atakapoweka nguvu ya ushindi wake kwa watu wake na yeye akiwa kati yao, atakapouondoa ule Ufalme/serikali ya Mpinga Kristo **(Mnyama),** kwa kumwondoa katika madaraka yake, kwa wale wenye kweli ya Kristo kushinda kwa uweza wa Yesu Kristo, na atapoiondoa ile dini kuu (nabii wa uongo), nao wote wawili wataanguka na kukosa wafuasi kwa maana watu watakuwa wameamini ile kweli ya Yesu Kristo na kuifuata, hivyo nguvu yao itaondoka katika dunia, Ndipo pataanza kusimama tena falme mbalimbali katika ulimwengu kila moja kwa misingi ya haki ya Yesu Kristo.
+
+***(Hiyo ndiyo miaka elfu ambayo Yesu atatala katika falme zote duniani, na Ibilisi atakuwa amefungwa kuzimu, hapatakuwa na udanganyifu katika dunia, kwa hiyo miaka elfu. Hiyo ndiyo maana ya ufufuo wa kwanza kwa wale waliokuwa mashahidi wa ile Imani ya kweli ya Yesu Kristo.)***
+
+### IDADI YA JINA LA NAMBA YA MNYAMA.
+
+Kati ya mada zinazojadiliwa kwa fafanuzi tofauti, ni mada ya namba ya jina la yule mnyama ambaye jumla yake ni 666. Na unabii unasema ni hesabu ya kibinadamu. Binafsi nimepata kusikia mafundisho mengi juu ya hesabu hiyo, lakini kama nilivyopata tafsiri ya Mnyama na Nabii kadiri Mungu alivyonijaalia, basi katika kusoma kwangu na kujifunza, niliona siri nyingine iliyojificha ndani ya maandiko yenyewe,ambayo sio inayotokana na mawazo binafsi bali ndani ya maandiko ya unabii wa kitabu hicho.
+
+Ili kupata mchanganuo mzuri nitaweka kwa Muhtasari yale maandiko yanayohusisha siri hiyo kwa mtiririko wake kama yalivyoandikwa.
+
+### 1.MUHURI SABA. ***Ufunuo wa Yohana 6: 1 -- 12***
+
+**Muhuri ya kwanza** 
+
+ni kipindi amba Yesu alitufia msalabani akashinda ilia pate kushinda katika sisi tulioliamini jina lake na kuishika ile kweli aliyotufundisha, kukawa na amani na tumaini katika dunia kwa maana Yesu alituletea ushindi kwa kupewa msamaha wa dhambi kwa msaada wa Roho wake Takatifu.
+
+**Muhuri ya pili**
+
+Ni nyakati za vita katika dunia watu watachukiana na kuuwana wao kwa wao wengine wakitetea haki zao na wengine wakidhulumu (Machafuko katika dunia).
+
+**Muhuri ya tatu**
+
+Ni nyakati za njaa kuu katika dunia, mazao hayataona kama ilivyo desturi wala matunda kwa majira yake kwa maana ni kipindi kilichoamuriwa kuwako.
+
+**Muhuri ya nne**
+
+Ni nyakati za magonjwa/maradhi ya mlipuko  na vita na njaa na mauaji ya Wanyama porin a wenye hatari katika dunia.
+
+**Muhuri ya tano**
+
+Ni  nyakati ambazo wale waliokuwa mashahidi wa ile Imani ya kweli kwa Yesu Kristo na walioenenda katika njia za haki na hukumu za Mungu walipouwawa kwa ajili ya jina la Mungu.
+
+**Muhuri ya sita**
+
+Ni nyakati za utisho wa Mungu kwa wanadamu na Dunia yote,kwa maana vitu vyote vitatiishwa na kuharibiwa kwa namna ambayo sio ya kibinadamu, matetemeko,giza, na utisho wa kila aina ambao wanadamu hawajawahi kuuona, siku ya hasira ya Bwana Mungu. Na ndipo wakati huo wale waliokuwa wakidumu katika kweli ya Yesu Kristo watakapowekwa muhuri ya Mungu katika mapaji ya nyuso zao.
+
+Katika fungu hili la kwanza tunaona nyakati sita zinazotendeka duniani,kwa maana yote hayo yaliyofungwa katika mihiri hizo sita ni mambo ya duniani. Hiyo ndiyo ile sita ya kwanza **(6).**
+
+**Muhuri ya saba**
+
+Ilikuwa inafunua Habari za baragumu yaani nyakati zingine sita zipaswazo kuwapo,hivyo muhuri hiyo ilikuwa  ikionesha uratibu wa nyakati zingine katika nchi. Muhuri hii inatuonesha mambo yaliyokuwa yakiendelea mbinguni.
+
+### BARAGUMU SABA. ***Ufunuo wa Yohana 8: 7 – 13 na  9 : 1 --13***
+
+**Baragumu ya kwanza**
+
+Ni pigo la ardhi na mimea kwa  mvua za mawe na damu ambazo zitaharibu uoto wa asili wa nchi na kuharibu ardhi.
+
+**Baragumu ya pili**
+
+Ni pigo la bahari ambapo bahari itaharibiwa maji yake na viumbe wakaao ndani yake watapotea kwa sababu ya athari hizo.
+
+**Baragumu ya tatu**
+
+Ni pigo la maji ya mito na chemchem hivyo maji yakatiwa uharibifu na hivyo yakageuka kuwa sum una kuwadhuru wanadamu.
+
+**Baragumu ya nne**
+
+Ni pigo la anga kwa maana nyota mwezi na jua vitaharibiwa uasilia wake na kutiwa giza theluthi yake hata havutaweza kuangaza kama ilivyo kawaida yake.
+
+**Baragumu ya tano**
+
+Ni pigo la maumivu/mateso kwa wanadamu kwa miezi mitano kwa kutumia nzige wenye mfano wa nguvu za nge kutoka shimoni (Kuzimu) kwa wale ambao hawakuwekwa chapa ya Mungu katika mapaji ya nyuso zao kama tulivyoona katika Muhuri ya sita.
+
+**Baragumu ya sita**
+
+Ni pigo la mauaji kwa wanadamu kwa moshi na moto na kiberiti kutoka kwa Mungu kupitia wale Malaika walioandaliwa kwa ajili ya siku na mwezi na saa na mwaka.Lakini hata baada ya hayo watu hawakutubu mbele za Mungu na kuziacha njia zao za kuabudu sanamu na wizi na uzinzi.
+
+Hivyo tunaona tena vipindi sita ambavyo vitatolea katika nchi na namna ambavyo wanadamu hawatabadilika na kumgeukia Mungu licha ya mapigo yote ambayo yatakuwa Dhahiri. Hii ndiyo siri ya ile sita ya pili **(6).**
+
+**Baragumu ya saba**
+
+ikapigwa kwa maana iliwekwa kwa ajili ya siku hizo za mwisho kabisa kwa maana itakuwa ndio baragumu ya kuwafufua wafu wote kwa ajili ya hukumu ya mwisho.kwani imeandikwa hapatakuwa na muda tena baada ya Malaika huyo wa saba atakapopiga baragumu ya saba.
+
+Katika baragumu hii ya saba pia tunaona inaelezea Habari/jambo litendekalo mbinguni kama ilivyokuwa Muhuri ya saba ilivyoelezea mambo yaliyokuwa yakitendeka mbinguni.
+
+### MABAKULI SAB/VITASA SABA. ***Ufunuo wa Yohana 16: 1 – 16.***
+
+**Bakuli la kwanza **
+
+Likamiminwa kwa ajili ya kudhuru watu kwa majipi kwa wale wote wenye chapa ya yule mnyama na walioisujudia sanamu yake.
+
+**Bakuli la pili**
+
+Likamiminwa kwa ajili ya kuyaharibu maji ya bahari na viumbe wote waishio humo wakafa kwa sababu ya madhara yake.
+
+**Bakuli la tatu**
+
+Likamiminwa kwa ajili ya kudhuru mito na chemchem nazo zikawa damu hata maji yake yasiwe salama kwa matumizi kwa watu hayo yalifanyika kwa ajili ya kuwalipia wale manabii na mashahidi wa Mungu waliouwawa kwa ajili ya kweli na Imani ya Mungu.
+
+**Bakuli la nne**
+
+Likamiminwa jua likadhuriwa na kutoa moto wanadamu wakaunguzwa kwa joto/moto wa jua lakini pia hawakumrudia Mungu bali walimtukana jina lake na wala hawakutubu.
+
+**Bakuli la tano**
+
+Likamiminwa juu ya Ufalme/uongozi wa hiyo serikali. ufalme wao ukatiwa giza maana watakosa uelekeo/masuluhisho ya matatizo ya watu, wakapingana wao kwa wao katika ufalme huo. Wala hawakutubu.
+
+**Bakuli la sita**
+
+Likamiminwa na ndipo patatokea zile Roho za uongo tatu zitendazo ishara, kutoka magharibi,moja itatoka katika yule mnyama(Ule Ufalme), Moja itatoka kwa yule nabii wa uongo(katika ile Dini), na Moja itatoka kwa Ibilisi mwenyewe.Hizo ndizo siri ya ile sita ya pili (6).
+
+**Bakuli la saba**
+
+Likamiminwa na tazama tunaona tena likizungumzia Habari ya Mbinguni,kutoka katika Hekalu la Mungu saw ana ule Muhuriw a saba Pamoja na Baragumu ya saba.
+
+### Muhtasari.
+
+Ukiangalia kwa Habari ya ulimwengu tunaona nyakati zimegawanya katika mafungu makuu matatu, Kipindi cha Muhuri,Kipindi cha Baragumu na Kipindi cha Mabakuli/Vitasa.katika mafungu yote haya kwa Habari ya nchi zinazungumziwa nyakati sita kwa kila fungu moja,na tunaona katika kila fungu limezungumzia Habari ya mbinguni mara moja.
+
+- **Mihuri sita (6)  Habari zihusuzo ulimwengu.**
+- **Baragumu sita (6)  Habari zihusuzo ulimwengu.**
+- **Bakuli/Vitasa sita (6)  Habari zihusuzo ulimwengu.**
+
+**Nyakati zote 666** zitatokea katika nchi kabla ya Yesu Kristo Kurudi kwa ajili ya ukombozi wa Dunia, nasema ukombozi wa dunia kwa sababu, ukombozi wa Yesu Kristo aliokufa Msalabani ulikuwa kwa ajili ya kumkomboa mwanadamu na kumpa upatanisho na Mungu, kisha atarudi kwa ajili ya kumwondoa Ibilisi na kumfungia kuzimu ili asipate nafasi ya kuupotosha ulimwengu, na huo utakuwa ndio Ukombozi wa mwisho na kisha kitafuatia kiama.
+
+Katika historia ya uumbali wa Mungu,tunasoma kwamba Mungu alianza kwa kuumba Mbingu na Nchi kisha akaumba na kufanya vitu vyo viijazayo nchi na baadae akamuumba Mwanadamu kwa ajili ya kukaa katika hiyo nchi.Lakini katika kuzaliwa mara ya pili katika Yesu Kristo Mungu anaanza kumtengeneza/Kumzaa kwanza Mtu mpya ndipo anamwandalia mako mapya yaani Mbingu mpya na Nchi mpya.Yesu aliwaambia wanafunzi wake anakwenda kuwaandalia Makao.Kauli hiyo ilikuja baada ya Yesu kuja na kuwapa watu ile kweli ili watakapofanywa wapya Rohoni yaani kuzaliwa mara ya Pili basi wawe na makao katika ule ufalme wa Baba yake naye ndiye Mungu wetu.
+
+Hivyo Ufalme utakaoinuka **(Mnyama)** utaweka taratibu na sheria ambazo zitakuwa za kidunia zenye kuwapendeza wanadamu na sio Mungu,zitakazoleta utukufu kwa mwanadamu na kwa kazi ya mikono ya wanadamu,na kuweka yale yote yaliokweishakupita ambayo yalikuwa chukizo kwa Mungu kayafanya mambo matukufu na watu watapewa amri kuyaamini na kuyaabudu na pia kuyasujudia.Huo ndio ufalme wa ulimwengu ulio kinyume na ufalme wa Mungu.
+
+### MAUDHUI YA KITABU.
+
+Katika kitabu cha Ufunuo wa Yohana kuna mambo makuu matatu ya kujifunza amabyo hapana budi kupata utulivu ili kuyafunua,
+
+### Mateso ya wacha Mungu hapa duniani.
+
+Mateso hayo yapo ya namna mbalimbali ambayo kila anayemwelekea Mungu kwa haki na kweli,atayapitia bila shaka.yatakuwa mateso ya hali ya kipato,mateso ya kutokusaidika kwa sababu ya kuenenda kwa unyofu,mateso ya kuwahusumia wengine na kutenda kwa niaba yao,mateso ya kukosa Faraja ya kujumuika na makusanyiko yasiyotenda na kunena kweli ya Yesu Kristo,lakini katika nyakati hizo za mwisho yatakuwako mateso makuu Zaidi kwa hao wachamungu kwa maana watafanyiwa hila na usaliti mkubwa kwa sababu ya Imani yao.
+
+### Kupotoka kwa wateule.
+
+Hali hiyo ya wachamungu wa kweli kuteseka,itawafanya watu wengine kutokumwamini mungu wa kweli na kumfuata yule aletaye nafuu ya mambo ya wanadamu pasipo wao kujua ya kwamba,hayo yapendezayo machoni ni ya muda tu na hayadumu milele.hivyo hata baadi ya wateule wataingia shaka/kupoteza tumaini juu ya Yesu Kristo kwa maana wataona ni kana kwamba Mungu amewaacha/hayupo.Ila katika kitabu hicho hicho kinatuonesha kwamba Pamoja na magumu na mateso tunayopitia bado Mungu yupo katika mamlaka yake na ameyaruhusu hayo kwa majira maalumu na kwa hesabu maalumu kabla hajayakomesha.
+
+### Milki ya Mungu katika dunia.
+
+Kisha tunaona baada ya yote ya mateso na Mungu atakakoyakomesha yote mabaya katika nchi,basi dunia yote itatawaliwa na Mungu kupitia mwanaye Yesu Kristo na wale wote waliokuwa na kweli yake na kuenenda katika njia yake na kuwa mashahidi hata kufa yaani watakatifu wa Mungu watatawala Pamoja naye,kwa kuwaweka kuwa wafalme na watoa hukumu juu ya mataifa,katika wakati huo wale waliojitoa miili na nafsi zao kwa ajili ya Mungu basi watastarehe na mateso hayatakuwako tena kwao.kwa maana watatawala Pamoja na Yesu.
+
+### Uasi mkuu.
+
+Baada ya hayo yote kupita pindi Ibilisi atakapofunguliwa tena ili awapotoshe wanadamu,basi atatengeneza kundi kubwa sana naye atapanga vita dhidi ya Yesu Kristo **(Ufalme wa Mungu)**. Kwa madai mengi ya ushawishi atawadanganya wengi,kwa maana sote tunajua utawala wa Mungu ni wakifalme yaani hakuna demokrasia ya kuchagua unachokitaka,hivyo kwakuwa watu watakuwa katika amri moja toka kwa mfalme na wakuu wake basi Ibilisi atatumia mbinu ya kuwapa watu uhuru wa kujichagulia walitakalo,akiahidi kuwapa watu uhuru wao ambao hawatalazimika kufuata amri za ufalme yaani ataleta **(DEMOCRACY)**.Watu wengi watamuunga mkono na kumfuata ili wapate kuishi kama watakavyo wao wenyewe,huo ndio ule uasi mkuu,kwa maana watajipanga kwa vita ya mapinduzi,lakini kwa kuwa utakuwa ni wakati uliokusudiwa basi Mungu atawateketeza kwa Moto wote waliomfuata na kumtupa Ibilisi Katika ziwa la moto humo alimo yule nabii wa uongo na yule kahaba.
+
+### Hukumu ya mwisho.
+
+Kisha baada ya hayo ndipo itakuja siku ya hukumu ya mwisho kwa watu wote,wafu na walio hai,wafu wote watafufuliwa wakuu kwa wadogo,na watakatifu wote na wenye dhambi wote kwa ajili ya hukumu.na hiyo itakuwa kama hukupata nafasi katika ule ufufuo wa kwanza basi mauti hii ya pili hutaweza kuiepuka.Ndipo wale ambao hawakuandikwa katika kitabu cha uzima watakapotupwa katika lile ziwa la moto alipo yule kahaba na nabii wa uongo na mnyama.Na huo utakuwa mwisho wav yote,naye Mungu atavifanya upya vitu vyote Mbingu,Nchi na Yerusalemu.kisha hao watu nao watakuwa wapya ili kuiingia nchi mpya.
+
+***Bwana Mungu atusaidie sote kwa neema yake,tudumu katika kweli yake na kuwa mashahidi wa Imani yake kwa kuisema na kuitenda ile kweli ili tuwe wenye kibali machoni pake,tuishi na tudumu na kufa katika njia yake ya KWELI AMEN.***
+
+### MJUMUISHO JUU YA MAFUNDISHO HAYO.
+
+Kwa kujuisha,Mimi mara zote katika Makala zangu nimekuwa muumini na muhamasishaji wa mambo makuu matatu,…
+
+- Tuisome Biblia kama ilivyoandikwa na kutafuta maana na kiini cha andiko husika.
+- Kuruhusu muongozo wa Roho Takatifu wa Mungu kutuongoza katika kufasiri maandiko.
+- Kuwa na Subira katika kungoja wakati wa Mungu huku tukiwa macho kuziona ishara alizotuambia tuzingoje maana lazima zitokee.
+
+Hivyo nianze kwa kusema Biblia kama ilivyoandika kitabu cha Ufunuo wa Yohana,katika historia na pia katika maongozi ya Roho Takatifu wa Mungu,niwazi na kweli kwamba yote yaliyoandikwa hayana budi kutokea katika udhahiri wa mwilini japo yanayo tafsiri yake katika Ulimwengu wa Roho,
+Lakini pia tukumbuke kwamba ulimwengu wa Roho ndio unaoutiisha ulimwengu wa mwili na maumbile,hivyo basi kama tunavyoheshimu udhahiri wa mwili basi yatupasa kuamini na kuwa na hakika kwamba ulimwengu wa Roho unatenda kazi sawasawa katika kuratibu mambo yapasayo kutokea katika mwili.
+
+Hivyo mambo hayo yaliyoandikwa katika kitabu hicho japokuwa yanartibiwa katika Roho,lakini pia hayana budi kutokea katika mwili,kwamba ni kweli Makanisa hayo yalikuwako katika pande za Asia kama inavyonenwa katika Biblia (Uturuki ya sasa).na yote yaliyoandikwa katika onyo la Yesu kwao yalitokea n ahata leo tunavyozungumza maeneo hayo yamebaki kuwa kama kumbukumbu za kihistoria pekee.
+
+Hivyo kwa habaria zote ni kwamba yote yalipaswa na yatapaswa kutokea ili tu maandiko ya unabii yapate kutimia.Kwa kusema hivyo ninamaanisha tuasome maandiko kwa uhalisia wake pale yanapoandika kwa Habari halisi za mwilini,na pia tuyape maana maandiko pale yanaponena habaria za Rohoni/mafumbo ya Rohoni.Sio sahihi kuwapa watu utisho wa mafumbo kwa Habari zilizo za wazi wazi,na pia sio sahihi kuwapa watu mambo ya mwilini kwa Habari za mafumbo ya Rohoni.
+
+Tumpe Roho nafasi pale yanapohitajika kuyanena ya Rohoni lakini pia imetupasa kuwa na hekima pale yanapokuja mambo ya mwilini.Kwa maana mambo yote hayo yameandikwa na yalinenwa kwa ajili yetu sisi,ili kwamba kwa kuyasoma tupate kuijua ile iliyokuwa nia na shabaha ya kuneno/kuandikwa kwake.
+
+Mambo yaliyoandikwa katika kitabu hiki cha Ufunuo yanatupa onyo kali sana mwishoni mwa kitabu,na onyo hilo la kinabii lilitolewa kwa kuwa Mungu alijua wapo watu watakaopotosha maono hayo kwa njia za elimu mbali mbali,na kwamba wapo watakaokuwa wakitumika na yule muovu pasipo wao kujitambua,kwa maana watapokea fundisho la uongo nao pia wataliendeleza fundisho hilo.Hivyo ilitolewa **(Ole)** kwa yeyote atakayethubutu kufanya hayo Aidha kuongeza au kupunguza maneno ya unabii wa kitabu hicho.
+
+Ndio maana hata katika kuchapwa kwake kilikuwa kitabu cha mwisho kabisa kuridhiwa kuingia katika mjumuiko wa vitabu katika Biblia.
+
+***(Ashukuriwe Mungu kwa maana aliruhusu tukisome na kukihifadhi kitabu hiki kwa karne, hata kizazi cha leo, kwa sababu hazina hiyo ingepotea basi yawezekana tusingepata kwa kina kuyajua yaliyo katika hatma ya mwanadamu. ***
+

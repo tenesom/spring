@@ -1,0 +1,76 @@
+---
+title: "SCRIPTURES"
+author: "benjamini mpinga"
+date: "2023-02-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+### MIONGOZO YA MAANDIKO.
+
+Katika maandiko ya Biblia ni mara nyingi usomapo utakutana na maneno kadha wa kadha ambayo unaweza ukawa unapata tahayari kidogo kwa sababu ya kutokuyafasiri ipasavyo. Watu wengi sio wasomaji wa Biblia mara kwa mara, na hata wale wanaosoma mara kwa mara wamejikita kusoma masomo yanayo jirudia rudia kwa maelekezo ya waalimu au viongozi wao wa dini.
+
+Kusoma Biblia hakukupi uhakika wa kumjua Mungu, bali kunakupa uelewa wa habari za Mungu na wanadamu kwa nyakati tofauti tofauti toka kuumbwa kwa Ulimwengu pamoja na kuumbwa kwa Adam. Katika kusoma huko utakutana na maneno mengi ya kinabii na kitaaluma, ambayo yanahitaji Roho Mtakatifu kukufunulia ili uweze kuyaelewa. Roho ni mwalimu mzuri awezaye kukufundisha kutokana na uweza wa Mungu ambaye yupo ndani yako. Sio kosa kuwa na mwalimu au mchungaji anayekupa muongozo katika kusoma Biblia, ila kwa hakika ni lazima uwe na Roho mtakatifu atakayekufunulia mafumbo yaliyomo ndani ya kitabu hicho.
+
+Vile vile yeye afundishae hana budi kuwa na Roho Mtakatifu ndani yake ili kumsaidia kupata tafasiri sahihi katika kuwafundisha na kutoa miongozo kwa watu. Biblia pasipo Ufunuo wa Mungu ni sawa na kitabu cha kumbukumbu za kale pamoja na utabiri wa kinajimu. kwa maana hata hao watu wa kawaida katika mwili wanaweza kutengeneza na kutoa tafsiri za mambo yaliyofichwa kwa mafumbo ya kitaaluma. Basi imetupasa kumsihi sana Roho Kutuongoza wakati tunapokisoma au kujifunza kitabu cha Biblia.
+
+Maandiko yaliyomo humo ni maneno ambayo Mungu aliyaweka katika vinywa vya watumishi wake na wakayasema katika Roho wa Mungu, hivyo ni vyema tukayasoma tukiwa tumeungamanishwa na Roho yule yule wa Mungu. Sio kosa kusoma Biblia ila ni kosa kuitafsiri Biblia kama upendavyo wewe mwenyewe, kwa sababu yapo maneno ya unabii ambayo ukiyabatilisha kwa kutoa tafsiri isiyokuwa sahihi, basi unajibebea laana kwa kinywa chako mwenyewe. Hivyo ni vyema na bora zaidi kunyamaza kuliko kuweka maneno na tafsiri zako binafsi kwa ajili ya maslahi yako au kwa sababu ya ujinga wa kutokujua kwako.
+
+### MAANDIKO BILA UFUNUO NI MAUTI.
+
+**Luka 24: 44 -- 49.**
+
+Yesu anawafunulia wanafunzi wake akili zao ili wapate kuyatambua maandiko, maneno hayo yana maana kwamba wanafunzi waliyajua maandiko hapo kwanza, ili kitu kikubwa na muhimu ambacho walikosa ilikuwa ni ufunuo, ndio maana Yesu Kristo baada ya kufufuka alipowatokea wanafunzi wake, moja ya jambo alilofanya ilikuwa kuwapa ufunuo juu ya maandiko, ili kusudi watakapoyasoma wapate kuyafahamu kupitia Roho ya Ufunuo.
+
+Na pale tunaposoma maandiko bila kuwa na ufunuo ndipo tunaambiwa **"andiko huua"** lakini pale tunaposoma kwa ufunuo **"Roho huuwisha".** Hivyo ndugu zangu nawiwa kusema katika baadhi ya chambuzi ninazoziweka hapa sio kwamba nimezitoa kichwani bali ni Roho alimvuvia Mtumwa wake **(ABDALAH MOHAMED KALUNDE)**, nami niliyeandika katika kitabu hiki nilizipokea kutoka kwake, naye akinifundisha na kunishuhudia nguvu na kweli ya Yesu Kristo hata kufikia kupewa kibali na Mungu kuandika ujumbe huu. Kwa hakika ni shuhuda zenye nguvu na maisha ya kweli ambayo tulishiriki kwa msaada wa Yesu Kristo kupitia Mtumwa wake Kalunde.
+
+### Baadhi ya miongozo ya kukusaidia kusoma maandiko.
+
+BIBLIA inaandika kwamba **“Yeye asomae na afahamu”** hivyo ni dhahiri kwamba tutaposoma mambo yeyote aidha yenye marifa ya Kimungu au yenye maarifa ya kidunia, ili tuweze kupata hayo maarifa yaliyokusudiwa basi hatuna budi kuyafahamu hayo tuyasomayo, vilevile hatuna budi kuyatafutia uhakika yale tuyafahamuyo.
+
+BIBLIA ni maandiko yaliyoletwa katika Roho ili tuweze kuyatambua, hivyo imetupasa kuongozwa na Roho katika kuyapatia maana au kuyatafakari, la sivyo tutapoteza shabaha yote iliyokusudiwa, pia si maneno yakuyatafsiri kama mtu apendavyo mwenyewe, Mtume paul anaandika anasema **“je, mambo yaliyoandikwa kuhusu wanyama yaliandikwa kwa ajili ya hao wanyama? la hasha hayakuandikwa kwa ajili ya hao wanyama bali kwa ajili yetu sisi.”** ***1 wak;9:9*** hivyo ndugu zangu tunapotoa waraka huu kwa hakika basi tambua kwamba ni kazi ya Mungu katika maisha yetu na siyo maarifa ya kibinadamu, wala si kwa utashi wa mtu bali ni uweza wa Roho mtakatifu.
+
+> **NOTE** Mungu aliposema juu ya wanyama, mimea au vitu vingine hakuwa na maana ya vitu hivyo bali alivitumia kama mfano kusudi aweze kumfundisha mwanadamu. Yesu akwaambia makutano akisema **”nimesema nanyi mambo ya duniani hamkunisadiki je, mtanisaidiki vipi nikisema nanyi mambo ya mbinguni?"**
+
+Andiko jingine linasema **“wala pasipo mfano Yesu hakunena jambo”,** kwa maana hiyo yapo mambo mengi sana ambayo yalisemwa kwa mifano ila watu wameyapokea kama mambo halisi, jambo ambalo linapoteza shabaha nzuri ya Rohoni na kuendelea kutuhubiria mambo ya mwilini.
+
+Sehemu moja kaatika maandiko ya Biblia inasema, wanafunzi walipokuwa katika faragha na Yesu walimuuliza **“Bwana mbona unapokuwa na makutano unasema nao kwa mifano?”,** Yesu akajibu akawaambia **"ninyi mumebahatika kuzijua siri za ufalme wa Mungu nasema nanyi wazi wazi, bali wao huambiwa kwa mifano ili watizame wala wasione na wasikie wala wasielewe".**
+
+Hivyo ndugu zangu tunachojifunza katika mistari hii michache ya utangulizi tunaona uthibitisho kuwa MUNGU BABA na YESU KRISTO BWANA WETU walitumia mifano ili kufikisha ujumbe kwa wanadamu. Swali la msingi ni hili **Je, sisi nasi tuendelee kuishi kwa kufuata mifano?,** kama ndivyo Je, Yesu alitumia mifano kwa ajali ya akina nani?. Wanafunzi wake au makutano?. Na kama ni kwa ajili ya makutano, je, sisi nasi ni wanafunzi wa Yesu au makutano?.
+
+Na kama sisi tunakiri na kuamini kuwa ni wanafunzi je, siri hizi na mafumbo haya yataendelea kutumika mpaka lini?, au tutaendelea kujihesabu kuwa wanafunzi wa Yesu pasipo kuenenda sawasawa na ishara za kiuanafunzi?, na hizo ishara za kiuanafunzi ni zipi basi kama si pamoja na kuwa na hekima katika kila jambo?. Maandiko yanasema **"Naye Bwana atawapa akili katika kila jambo."**
+
+Hivyo basi ndugu zangu tunapoenda makala hii basi tumtangulize Mungu kwanza, ili atujaalie kuzifunua akili zetu ili tuweze kuyatambua makusudi na shabaha iliyopo katika fundisho hili.
+
+**Baadhi ya tafsiri ya Ufunuo kutoka katika maandiko.**
+
+- Maji ya Mto ------ Uwepo wa nguvu za Mungu Rohoni mwa Mtumishi.
+- Maji ya bahari ------- Jamii za Mataifa.
+- Jangwa ------ Roho ya Dini ya upotofu.
+- Nyika -------- Roho ya Dini
+- Nyoka ------- Ibilisi.
+- Jiwe -------- Roho ya kiburi.
+- Majani mabichi ------ Neno la utakatifu/Neno la uzima.
+- Majani makavu ------ Neno la uovu/Neno la mauti.
+- Mti mbichi -------- Mtumishi wa kweli wa Mungu.
+- Mti mkavu --------- Mtumishi wa uovu.
+- Chem chem --------- Roho Mtakatifu.
+- Nchi -------- Mwili.
+- Mbingu ------- Roho.
+- Matope ------- Maisha ya katikati (Mambo ya Roho na Mambo ya Mwili kwa pamoja).
+- Udongo ------ Mwili.
+- Nguruwe ------- Mtumishi asiyekuwa na Ufunuo wa Mungu.
+- Punda --------- Mtumishi anayefuata mafundisho ya Dini na sio ya Mungu.
+- Kambale ------ Mtumishi asiyekubali Ufunuo wa Mungu.
+- Ng'ombe ------ Mtumishi mwenye maono na Ufunuo.
+- Tai ------ Mfano wa Mungu Baba.
+- Vugu vugu ----- Mtumishi mwenye maisha ya katikati (UOVU NA WEMA).
+- Moto ------- Uwepo wa Roho Mtakatifu.
+- Baridi ------ Kukosa Roho Mtakatifu
+- Mkate ------ Mfano wa matendo ya mwilini.
+- Divai ------ Mfano wa matendo ya Roho.
+
