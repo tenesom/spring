@@ -1,0 +1,60 @@
+---
+title: "Kileo"
+format: html
+editor: visual
+---
+
+---
+title: "KILEO'S GENEALOGY"
+format: pdf
+editor: visual
+---
+
+## Kileo First Generation.
+
+**English version.**
+
+This flowchart shows Kileo's genealogy which basically reflect one generation of three descendants. This flow chart can remind us, how a person can grow from an individually to one bigger family when he make a right choice. As well as how a bigger family can use its potential to achieve as many and great things if we are well organized and cherish each other with love and respect.
+
+We are all the descendants from someone's right choice, he firstly chose a companion (wife), and decided to marry her, then God allowed him to reproduce children on earth, he made another right decision to raise those children, then after he gave them the right to know their true identity of Chaga tribe from Kileo's blood root.
+
+Therefor this teach us that, those who have a divine duty to up growing the Kileo's blood root, they are suppose to follow the great example of our beloved ancestors, to ensure that they never miss anyone with Kileo's blood out of this chart, and if you can, then serve and pass this behavior to the next generation after you.
+
+I know some may think that this isn't necessary in today's time, well you might be right, but then permit me to take you through the Bible, on.......
+
+> ***Mathew 1:1--17***. In this book which we believe, we read and know how ancient people lived, by keeping the recods of their generations, this life style helped them to know their origin and cherish all good from their ansastors and eliminate/correct all evel/bad things done by their ancestors.
+
+So by knowing our origin helps us to learn good behavior, actions and wisdom from our ancestors, but also helps us to change all bad and unwise actions done by our ancestors by being different from them in our behavior. Therefor if we fail to keep your blood records, then we miss a great privilege of learning from others experience.
+
+## Uzao wa kwanza wa Kileo.
+
+**Nakala ya Kiswahili.**
+
+Chati hii inainesha Asili ya kizazi cha Kileo kwa kuonesha kizazi kimoja kinachobeba mizao mitatu. Chati hii inatukumbusha sote ni jinsi gani uchaguzi sahihi wa Mtu mmoja yanaweza kukua kutoka Mtu binafsi na kutengeneza familia kubwa. Na pia ni kwa jinsi gani familia inaweza kutumia ubora iliyonao kufanikiwa katika mambo makubwa endapo wataweza kuchukuliana kwa upendo na kuheshimiana.
+
+Sisi sote ni mazalia ya maamuzi sahihi ya Mtu mmoja, kwanza alianza kwa kufanya uchaguzi wa Msaidizi (Mke), akamuoa, kisha Mungu akaruhusu apate uzao hapa duniani. Kisha akafanya maamuzi mengine sahihi kwa kujitahidi kuwalea watoto hao aliopewa na Mungu, na kisha akawapa watoto hao haki yao ya msingi ya kuijua asili yao ya Kabila la Kichaga, linalotokana na ukoo wa Kileo.
+
+Jambo hili linatufundisha kwamba, wale wote wenye jukumu la asili la kuendeleza damu ya ukoo wa Kileo, inawapasa kuufuata mfano huu wa wazee wetu waliotutangulia, ili kuhakikisha kwamba hawamuachi hata mtu mmoja mwenye damu ya Kileo nje ya chati hii, na kama itawezekana basi uitunze chati hii kwa ajili yako na kwa ajili ya kizazi kijacho baada ya wewe.
+
+Najua baadhi yenu mnaweza kuona kana kwamba jambo hili sio la muhimu haswa katika kizazi cha sasa, ni sahihi tu kwa sababu hayo ni mawazo yako, lakini naomba uniruhusu nikupeleke katika maandiko ya Biblia......
+
+> ***Mathayo 1:1--17.*** Katika kitabu hiki ambacho tunakiamini, tunasoma na kujua ni namna gani wazee hawa wa zamani walikuwa wakiishi kwa kutunza kumbukumbu ya vizazi vyao, Mtindo huu wa maisha uliwasaidia wao kuijua na kuitunza asili yao, na kupitia ujuzi huo waliyaenzi yale yote yaliyokuwa mema yaliyofanywa na wazee waliotangulia, na pia waliyarekebisha yale mabaya ambayo yalifanywa na wazee wao.
+
+Hivyo kwa mtu kuijua asili yake, tunajifunza tabia njema, matendo mema na hekima kutoka kwa wazee wetu waliotutangulia, lakini pia inatusaidia kubadili yale yote mabaya na yasiyofaa yaliyofanywa au kutendwa na wazee wetu kwa kuwa tofauti na wao kitabia. Hivyo tukishindwa kutunza kumbukumbu ya kizazi chetu basi tujue ya kwamba tunakosa nafasi kubwa sana ya kujufunza kutokana na uzoefu wa wengine hususani waliotutangulia.
+
+```{mermaid}
+%%| label: fig-mermaid
+%%| fig-width: 6
+%%| fig-cap: Kileo's 1st&2nd Generation/ Kizazi cha kwanza na chapili cha Kileo.
+flowchart LR
+  A[(Almighty</br> God)] -->B{Philemon Kileo} 
+  B --> C[/Eliasifiwe P</br> Kileo/] --> J[Benhadat</br>Tumaini</br>Philemon</br>Enock</br>Yona</br>Ngao]
+  B --> D[/Shihaniade P</br> Kileo/] --> K[Oscar</br>Magdalena</br>Philemon</br>Lilian]
+  B --> E[/Godfrey P</br> Kileo</br> Rip/] --> L[Lameck Kileo</br>Yunis kileo Rip</br>Helena Kileo</br>Ludovic Kileo]
+  B --> F[/Janeth P</br>Kileo</br> Rip/] --> M[Joseph</br>Witness</br>Manka</br>Kibibi</br>Masanja]
+  B --> G[/Silvester P</br> Kileo/] --> N[Bariki</br>Grace</br>James</br>Eliaone</br>Manka</br>Twince]
+  B --> H[/Elipokea P</br> Kileo/] --> O[Nipa Kileo</br>Ombeni Kileo</br>Pendaeli Kileo</br>Jendry Kileo</br>Neema Kileo</br>Adrieli Kileo</br>Jackline Kileo]
+  B --> I[/Jackson P</br> Kileo/] --> P[Elikananyi Kileo</br>Daudi Kileo</br>Gabriel Kileo]
+  
+```
+
